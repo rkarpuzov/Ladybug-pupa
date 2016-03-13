@@ -212,7 +212,7 @@ public:
 // powLimit is same as TestNet: We do not need RegTest at the moment
 //       consensus.powLimit = uint256S("7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
          consensus.powLimit = uint256S("00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
-        consensus.nPowTargetTimespan = 1800; 
+        consensus.nPowTargetTimespan = 18000; 
         consensus.nPowTargetSpacing =  60;
         consensus.fPowAllowMinDifficultyBlocks = true;
         consensus.fPowNoRetargeting = true;
