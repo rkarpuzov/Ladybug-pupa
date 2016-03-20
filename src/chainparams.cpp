@@ -142,7 +142,7 @@ public:
         consensus.nMajorityRejectBlockOutdated = 75;
         consensus.nMajorityWindow = 100;
         consensus.BIP34Height = -1;
-        consensus.BIP34Hash = uint256S();
+        consensus.BIP34Hash = uint256();
         consensus.powLimit = uint256S("00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
         consensus.nPowTargetTimespan = 18000; // two weeks
         consensus.nPowTargetSpacing = 60;
