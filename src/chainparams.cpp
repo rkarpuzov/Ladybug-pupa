@@ -73,7 +73,7 @@ public:
         consensus.nSubsidyHalvingInterval = 210000;
         consensus.nMajorityEnforceBlockUpgrade = 750;
         consensus.nMajorityRejectBlockOutdated = 950;
-        consensus.nMajorityWindow = 1000;
+        consensus.nMajorityWindow = 1010;
         consensus.BIP34Height = 1;
         consensus.BIP34Hash = uint256S("0x00000000bea1b41eb016f9c39e02d36294d435222ce03576919123aee697c2ff");
         consensus.powLimit = uint256S("00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
