@@ -242,7 +242,7 @@
         <translation>Recepción de direcciones</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Cliente Bitcoin Core</translation>
     </message>
     <message>
@@ -318,7 +318,7 @@
         <translation>&amp;Configuración</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -366,11 +366,11 @@
         <translation>Alcanzando...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transacción enviada</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transacción entrante</translation>
     </message>
     <message>
@@ -673,7 +673,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -704,7 +704,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core descargará y almacenará una copia de la cadena de bloques Bitcoin. Al menos %1GB de datos serán almacenados en este directorio, y crecerá con el tiempo. La billetera será también almacenada en este directorio.</translation>
     </message>
     <message>
@@ -716,7 +716,7 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -936,7 +936,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     </context>

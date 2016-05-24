@@ -34,7 +34,7 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -57,7 +57,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -68,7 +68,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     </context>
@@ -120,7 +120,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     </context>

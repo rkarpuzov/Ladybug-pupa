@@ -168,7 +168,7 @@
         <translation>هل أنت متأكد من رغبتك في تشفير محفظتك ؟</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>بتكوين سوف يغلق الآن لإنهاء عملية التشفير. تذكر أن التشفير لا يستطيع حماية محفظتك تمامًا من السرقة من خلال البرمجيات الخبيثة التي تصيب جهازك </translation>
     </message>
     <message>
@@ -298,7 +298,7 @@
         <translation>افتح &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>عميل bitcion core</translation>
     </message>
     <message>
@@ -378,7 +378,7 @@
         <translation>شريط أدوات علامات التبويب</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -410,11 +410,11 @@
         <translation>اللحاق بالركب ...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>المعاملات  المرسلة</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>المعاملات الواردة</translation>
     </message>
     <message>
@@ -625,7 +625,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -656,7 +656,7 @@
         <translation>استخدام دليل بيانات مخصص:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
@@ -1344,7 +1344,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>

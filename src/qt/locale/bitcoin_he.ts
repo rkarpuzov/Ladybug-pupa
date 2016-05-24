@@ -286,7 +286,7 @@
         <translation>פתיחת &amp;כתובת משאב…</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>לקוח ליבה של ביטקוין</translation>
     </message>
     <message>
@@ -378,7 +378,7 @@
         <translation>סרגל כלים לשוניות</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
@@ -450,11 +450,11 @@
         <translation>מתבצע עדכון…</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>העברת שליחה</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>העברת קבלה</translation>
     </message>
     <message>
@@ -753,7 +753,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
@@ -796,7 +796,7 @@
         <translation>מכיוון שזאת הפעם הראשונה שהתכנית פועלת ניתן לבחור איפה ליבת ביטקוין תאחסן את הנתונים שלה.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>לקוח ביטקוין יוריד וישמור העתק של שרשרת המקטעים של ביטקוין. לפחות %1 ג״ב מהנתונים יאוחסנו בתיקייה זו, והיא תגדל עם הזמן. הארנק גם יאוחסן בתיקייה הזו.</translation>
     </message>
     <message>
@@ -808,7 +808,7 @@
         <translation>שימוש בתיקיית נתונים מותאמת אישית:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
@@ -1858,7 +1858,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>ליבת ביטקוין נסגרת…</translation>
     </message>
     <message>
@@ -2000,7 +2000,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>

@@ -164,7 +164,7 @@
         <translation>Vai tu tiešām vēlies šifrēt savu maciņu?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core tiks aizvērts, lai pabeigtu šifrēšansa procesu. Atcerieties, ka jūsu maka šifrēšana nevar pilnībā pasargāt jūsu monētas no to nozagašanas, inficējot datoru ar ļaunprātīgām programmām.</translation>
     </message>
     <message>
@@ -290,7 +290,7 @@
         <translation>Atvērt &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core klients</translation>
     </message>
     <message>
@@ -382,7 +382,7 @@
         <translation>Ciļņu rīkjosla</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -438,11 +438,11 @@
         <translation>Sinhronizējos...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transakcija nosūtīta</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Ienākoša transakcija</translation>
     </message>
     <message>
@@ -705,7 +705,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -752,7 +752,7 @@
         <translation>Izmantot pielāgotu datu mapi:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1542,7 +1542,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Core tiek izslēgta...</translation>
     </message>
     <message>
@@ -1672,7 +1672,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

@@ -168,7 +168,7 @@
         <translation>Esteu segur que voleu encriptar el vostre moneder?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Ara es tancarà el Bitcoin Core per finalitzar el procés d'encriptació. Tingueu present que encriptar el vostre moneder no garanteix que les vostres bitcoins no puguin ser robades per programari maliciós que infecti l'ordinador.</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>Obre un &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Client del Bitcoin Core</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucli de Bitcoin</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transacció enviada</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transacció entrant</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucli de Bitcoin</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>Atès que és la primera vegada que executeu el programa, podeu triar on emmagatzemarà el Bitcoin Core les dades.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>El Bitcoin Core descarregarà i emmagatzemarà una còpia de la cadena de blocs de Bitcoin. Com a mínim s'emmagatzemaran %1 GB de dades en aquest directori, que seguiran creixent gradualment. També s'hi emmagatzemarà el moneder.</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>Utilitza un directori de dades personalitzat:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucli de Bitcoin</translation>
     </message>
     <message>
@@ -2256,7 +2256,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>S'està aturant el Bitcoin Core...</translation>
     </message>
     <message>
@@ -2406,7 +2406,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

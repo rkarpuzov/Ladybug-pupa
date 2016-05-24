@@ -250,7 +250,7 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Биткоин Core софтверот</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>&amp;Помош</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
@@ -575,7 +575,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
@@ -594,7 +594,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткоин Core</translation>
     </message>
     <message>
@@ -934,7 +934,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткоин Core</translation>
     </message>
     </context>

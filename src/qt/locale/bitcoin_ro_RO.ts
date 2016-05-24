@@ -168,7 +168,7 @@
         <translation>Sigur doriţi să criptaţi portofelul dvs.?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin se va închide acum pentru a termina procesul de criptare. Ţineţi minte că criptarea portofelului nu vă poate proteja în totalitate de furtul monedelor de către programe dăunătoare care vă infectează calculatorul.</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>Deschide &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Clientul Bitcoin Core</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>Bara de unelte</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucleul Bitcoin</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Tranzacţie expediată</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Tranzacţie recepţionată</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucleul Bitcoin</translation>
     </message>
     <message>
@@ -922,7 +922,7 @@
         <translation>Dacă aceasta este prima dată cînd programul este lansat, puteţi alege unde Nucleul Bitcoin va stoca datele.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Nucleul Bitcoin se va descărca şi va stoca o copie a lanţului blocului Bitcoin. Cel puţin %1GB de date vor fi stocate în acest dosar şi se va mări în timp. Portofelul va fi, de asemenea, stocat în acest dosar.</translation>
     </message>
     <message>
@@ -934,7 +934,7 @@
         <translation>Foloseşte un dosar de date personalizat:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucleul Bitcoin</translation>
     </message>
     <message>
@@ -2080,7 +2080,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Nucleul Bitcoin se închide...</translation>
     </message>
     <message>
@@ -2222,7 +2222,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Nucleul Bitcoin</translation>
     </message>
     <message>

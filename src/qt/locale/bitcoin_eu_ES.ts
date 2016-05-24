@@ -168,7 +168,7 @@
         <translation>Seguru zaude nahi duzula zure diruzorroa enkriptatu?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core orain itxiko da enkriptazio prozezua amaitzeko. Gogoratu enkriptatzean zure diruzorroa ez duzula guztiz babesten zure Bitcoinak lapurretatik infektatzen zure ordenagailua Malwareekin.</translation>
     </message>
     <message>
@@ -282,11 +282,11 @@
         <translation>Eguneratzen...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Bidalitako transakzioa</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Sarrerako transakzioa</translation>
     </message>
     <message>

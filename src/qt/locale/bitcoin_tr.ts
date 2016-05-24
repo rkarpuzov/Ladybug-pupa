@@ -168,7 +168,7 @@
         <translation>Cüzdanınızı şifrelemek istediğinizden emin misiniz?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Şifreleme işlemini tamamlamak için Bitcoin Çekirdeği şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Bitcoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>&amp;URI aç...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Çekirdeği istemcisi</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>Sekme araç çubuğu</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Muamele yollandı</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Gelen muamele</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>Bu programı ilk kez başlattığınızdan dolayı Bitcoin Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin çekirdeği Bitcoin blok zincirinin bir kopyasını indirip saklayacaktır. Asgari %1GB bouyutunda veri bu klasörde saklanacak ve zamanla bu boyut artacaktır. Cüzdan da bu klasörde saklanacaktır. </translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>Özel bir veri klasörü kullan:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>
@@ -2264,7 +2264,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Çekirdeği kapanıyor...</translation>
     </message>
     <message>
@@ -2414,7 +2414,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>

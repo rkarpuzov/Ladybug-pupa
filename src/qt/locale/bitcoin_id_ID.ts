@@ -278,7 +278,7 @@
         <translation>Buka &amp;URI</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Client Bitcoin Inti</translation>
     </message>
     <message>
@@ -370,7 +370,7 @@
         <translation>Baris tab</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -492,11 +492,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transaksi terkirim</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transaksi diterima</translation>
     </message>
     <message>
@@ -787,7 +787,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -830,7 +830,7 @@
         <translation>Menggunakan direktori data yang dipilih Anda:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1762,7 +1762,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Core sementara dimatikan...</translation>
     </message>
     <message>
@@ -1892,7 +1892,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

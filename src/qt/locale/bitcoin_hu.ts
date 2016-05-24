@@ -294,7 +294,7 @@
         <translation>&amp;URI azonosító megnyitása...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core kliens</translation>
     </message>
     <message>
@@ -386,7 +386,7 @@
         <translation>Fül eszköztár</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -516,11 +516,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Tranzakció elküldve.</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Beérkező tranzakció</translation>
     </message>
     <message>
@@ -839,7 +839,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -878,7 +878,7 @@
         <translation>Üdvözlünk a Bitcoin Core-ban.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>A Bitcoin Core le fogja tölteni és tárolni fogja a Bitcoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
     </message>
     <message>
@@ -890,7 +890,7 @@
         <translation>Saját adatkönyvtár használata:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1825,7 +1825,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>A Bitcoin Core leáll...</translation>
     </message>
     <message>
@@ -1931,7 +1931,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

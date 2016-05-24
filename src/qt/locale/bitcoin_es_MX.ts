@@ -270,7 +270,7 @@
         <translation>Abrir &amp;URL...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>cliente Bitcoin Core</translation>
     </message>
     <message>
@@ -338,7 +338,7 @@
         <translation>Pestañas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>nucleo Bitcoin</translation>
     </message>
     <message>
@@ -362,11 +362,11 @@
         <translation>Recibiendo...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Enviar Transacción</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transacción entrante</translation>
     </message>
     <message>
@@ -505,7 +505,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>nucleo Bitcoin</translation>
     </message>
     <message>
@@ -536,7 +536,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>nucleo Bitcoin</translation>
     </message>
     </context>
@@ -818,7 +818,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Apagando el nucleo de Bitcoin...</translation>
     </message>
     <message>
@@ -848,7 +848,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

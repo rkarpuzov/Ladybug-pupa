@@ -169,7 +169,7 @@
         <translation>Είστε σίγουροι ότι θέλετε να κρυπτογραφήσετε το πορτοφόλι σας;</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Το Bitcoin Core θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογράφησης. Θυμήσου ότι κρυπτογραφώντας το πορτοφόλι σου δεν μπορείς να προστατέψεις πλήρως τα bitcoins σου από κλοπή στην περίπτωση που μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.
 </translation>
     </message>
@@ -300,7 +300,7 @@
         <translation>'Ανοιγμα &amp;URI</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Εφαρμογή Bitcoin Core</translation>
     </message>
     <message>
@@ -392,7 +392,7 @@
         <translation>Εργαλειοθήκη καρτελών</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -494,11 +494,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Η συναλλαγή απεστάλη</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Εισερχόμενη συναλλαγή</translation>
     </message>
     <message>
@@ -822,7 +822,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -865,7 +865,7 @@
         <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Bitcoin Core τα δεδομένα του.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>O πυρήνας Bitcoin θα κατεβάσει και να αποθηκεύσει ένα αντίγραφο της αλυσίδας μπλοκ Bitcoin. Τουλάχιστον %1GB δεδομένων θα αποθηκευτούν σε αυτόν τον κατάλογο, και θα αυξηθεί με την πάροδο του χρόνου. Το πορτοφόλι θα αποθηκευτεί σε αυτόν τον κατάλογο.</translation>
     </message>
     <message>
@@ -877,7 +877,7 @@
         <translation>Προσαρμογή του φακέλου δεδομένων: </translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1916,7 +1916,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Το Bitcoin Core τερματίζεται...</translation>
     </message>
     <message>
@@ -2058,7 +2058,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

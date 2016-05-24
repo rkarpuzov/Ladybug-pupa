@@ -169,7 +169,7 @@ Var vänlig och försök igen.</translation>
         <translation>Är du säker på att du vill kryptera din plånbok?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core kommer att stängas för att slutföra krypteringsprocessen. Kom ihåg att plånbokskryptering inte garanterar fullt skydd mot skadlig kod på din dator.</translation>
     </message>
     <message>
@@ -307,7 +307,7 @@ Var vänlig och försök igen.</translation>
         <translation>Öppna &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core-klient</translation>
     </message>
     <message>
@@ -399,7 +399,7 @@ Var vänlig och försök igen.</translation>
         <translation>Verktygsfält för tabbar</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -529,11 +529,11 @@ Var vänlig och försök igen.</translation>
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transaktion skickad</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Inkommande transaktion</translation>
     </message>
     <message>
@@ -856,7 +856,7 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -927,7 +927,7 @@ Var vänlig och försök igen.</translation>
         <translation>Eftersom detta är första gången programmet startas får du välja var Bitcoin Core skall lagra sina data.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core kommer att ladda ner och spara en kopia av Bitcoin-blockkedjan. Åtminstone %1GB av data kommer att sparas i denna katalog, och den kommer att växa över tiden. Plånboken kommer också att sparas i denna katalog.</translation>
     </message>
     <message>
@@ -939,7 +939,7 @@ Var vänlig och försök igen.</translation>
         <translation>Använd en anpassad datakatalog:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -2265,7 +2265,7 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Core stängs av...</translation>
     </message>
     <message>
@@ -2415,7 +2415,7 @@ Var vänlig och försök igen.</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Kärna</translation>
     </message>
     <message>

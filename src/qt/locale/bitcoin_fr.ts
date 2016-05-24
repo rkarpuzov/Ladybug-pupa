@@ -168,7 +168,7 @@
         <translation>Êtes-vous sûr de vouloir chiffrer votre portefeuille ?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core va maintenant se fermer pour terminer le processus de chiffrement. Souvenez-vous que le chiffrement de votre portefeuille ne peut pas vous protéger complètement contre le vol de vos bitcoins par des programmes malveillants infectant votre ordinateur.</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>Ouvrir un &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Client Bitcoin Core</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>Barre d'outils des onglets</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transaction envoyée</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transaction entrante</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>Comme c'est la première fois que le logiciel est lancé, vous pouvez choisir où Bitcoin Core stockera ses données.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core va télécharger et stocker une copie de la chaîne de blocs Bitcoin. Au moins %1Go de données seront stockées dans ce répertoire et cela augmentera avec le temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>Utiliser un répertoire de données personnalisé :</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -2264,7 +2264,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Arrêt de Bitcoin Core...</translation>
     </message>
     <message>
@@ -2414,7 +2414,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

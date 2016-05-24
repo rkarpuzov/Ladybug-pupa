@@ -168,7 +168,7 @@
         <translation>Ці ўпэўненыя вы, што жадаеце зашыфраваць свой гаманец?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core зараз будзе зачынены, каб фіналізаваць працэс шыфравання. Памятайце, што шыфраванне вашага гаманца не гарантуе абсалютную абарону ад магчымасці крадзяжу біткойнаў шкоднымі праграмамі, якія могуць інфікаваць ваш камп'ютар.</translation>
     </message>
     <message>
@@ -298,7 +298,7 @@
         <translation>Адчыниць &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core кліент</translation>
     </message>
     <message>
@@ -386,7 +386,7 @@
         <translation>Дапамога</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -516,11 +516,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Дасланыя транзакцыі</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Прынятыя транзакцыі</translation>
     </message>
     <message>
@@ -775,7 +775,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -810,7 +810,7 @@
         <translation>Вітаем у Bitcoin Core.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1102,7 +1102,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

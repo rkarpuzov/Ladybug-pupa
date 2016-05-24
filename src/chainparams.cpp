@@ -70,7 +70,7 @@ class CMainParams : public CChainParams {
 public:
     CMainParams() {
         strNetworkID = "main";
-        consensus.nSubsidyHalvingInterval = 210000;
+        consensus.nSubsidyHalvingInterval = 1400000; //We use halving, but this is decreasing with 1 bug for interval;
         consensus.nMajorityEnforceBlockUpgrade = 3000;
         consensus.nMajorityRejectBlockOutdated = 3100;
         consensus.nMajorityWindow = 3200;

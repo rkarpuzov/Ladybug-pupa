@@ -306,11 +306,11 @@
         <translation>در حال روزآمد سازی..</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>ارسال تراکنش</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>تراکنش دریافتی</translation>
     </message>
     <message>
@@ -691,7 +691,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>هسته بیت کوین در حال خاموش شدن است...</translation>
     </message>
     <message>

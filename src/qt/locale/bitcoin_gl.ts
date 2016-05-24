@@ -350,7 +350,7 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -414,11 +414,11 @@
         <translation>Poñendo ao día...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transacción enviada</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transacción entrante</translation>
     </message>
     <message>
@@ -681,7 +681,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -720,7 +720,7 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
@@ -1520,7 +1520,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Core de Bitcoin</translation>
     </message>
     <message>

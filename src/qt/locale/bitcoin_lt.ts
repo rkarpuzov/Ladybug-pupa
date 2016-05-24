@@ -286,7 +286,7 @@
         <translation>Atidaryti &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core klientas</translation>
     </message>
     <message>
@@ -370,7 +370,7 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -402,11 +402,11 @@
         <translation>Vejamasi...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Sandoris nusiųstas</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Ateinantis sandoris</translation>
     </message>
     <message>
@@ -637,7 +637,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -672,7 +672,7 @@
         <translation>Sveiki atvykę į Bitcoin Core.</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
@@ -1360,7 +1360,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>

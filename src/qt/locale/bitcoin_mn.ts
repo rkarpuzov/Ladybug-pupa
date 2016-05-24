@@ -282,11 +282,11 @@
         <translation>Шинэчлэгдсэн</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Гадагшаа гүйлгээ</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Дотогшоо гүйлгээ</translation>
     </message>
     <message>
@@ -750,7 +750,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Биткойны цѳм хаагдаж байна...</translation>
     </message>
     <message>

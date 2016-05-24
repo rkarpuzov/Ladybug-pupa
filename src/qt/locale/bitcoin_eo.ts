@@ -286,7 +286,7 @@
         <translation>Malfermi &amp;URI-on...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>kliento de bitmon-kerno</translation>
     </message>
     <message>
@@ -378,7 +378,7 @@
         <translation>Langeto-breto</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
@@ -482,11 +482,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Sendita transakcio</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Envenanta transakcio</translation>
     </message>
     <message>
@@ -789,7 +789,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
@@ -828,7 +828,7 @@
         <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Bitcoin Core stokos siajn datumojn.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core elŝutos kaj konservos kopion de la bitmona blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
     </message>
     <message>
@@ -840,7 +840,7 @@
         <translation>Uzi alian dosierujon por datumoj:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
@@ -1768,7 +1768,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>

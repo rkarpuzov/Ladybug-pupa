@@ -168,7 +168,7 @@
         <translation>您确定需要为钱包加密吗？</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>比特币核心现在将关闭以完成加密过程。请记住，在您的计算机被恶意软件感染的情况下，加密不能完全保护您的比特币免于被盗。</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>打开 &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>比特币核心钱包客户端</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>分页工具栏</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>比特币核心</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>发送交易</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>流入交易</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>比特币核心</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>由于这是第一次运行 比特币核心 程序，您可以选择数据存储目录。</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>比特币核心 程序会下载储存一份数据块链(blockchain)。至少需要 %1 GB的存储空间，随着时间推移会需要更多的存储空间。钱包文件也储存在该目录。</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>使用自定义的数据目录：</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>比特币核心</translation>
     </message>
     <message>
@@ -2260,7 +2260,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>比特币核心正在关机...</translation>
     </message>
     <message>
@@ -2410,7 +2410,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>比特币核心</translation>
     </message>
     <message>

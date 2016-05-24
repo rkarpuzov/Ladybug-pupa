@@ -207,11 +207,11 @@
         <translation>नवीनतम</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>भेजी ट्रांजक्शन</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>प्राप्त हुई ट्रांजक्शन</translation>
     </message>
     <message>

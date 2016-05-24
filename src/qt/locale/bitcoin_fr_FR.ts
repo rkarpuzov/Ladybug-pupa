@@ -194,11 +194,11 @@
         <translation>Rattrapage...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transaction envoyée</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transaction entrante</translation>
     </message>
     <message>

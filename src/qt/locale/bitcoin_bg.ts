@@ -47,11 +47,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Изберете адрес, на който да се изпращат монети</translation>
+        <translation>Изберете адрес, на който да се изпращат калинки</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Изберете адрес, на който ще получавате монети</translation>
+        <translation>Изберете адрес, на който ще получавате калинки</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите монети.</translation>
+        <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите калинки.</translation>
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
@@ -168,8 +168,8 @@
         <translation>Наистина ли желаете да шифрирате портфейла си?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Биткоин сега ще се затоври за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите монети от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <translation>Биткоин сега ще се затоври за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите калинки от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -294,8 +294,8 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
-        <translation>Bitcoin Core клиент</translation>
+        <source>Ladybug Pupa client</source>
+        <translation>Калинки Какавида клиент</translation>
     </message>
     <message>
         <source>Send coins to a Bitcoin address</source>
@@ -378,7 +378,7 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -480,11 +480,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Изходяща транзакция</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Входяща транзакция</translation>
     </message>
     <message>
@@ -507,7 +507,7 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Избор на монета</translation>
+        <translation>Избор на калинка</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -783,7 +783,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -834,7 +834,7 @@
         <translation>Използване на директория ръчно</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -913,7 +913,7 @@
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
-        <translation>Позволяване на монетите и &amp;техните възможности</translation>
+        <translation>Позволяване на калинките и &amp;техните възможности</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -981,7 +981,7 @@
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
-        <translation>Дали да покаже възможностите за контрол на монетите или не.</translation>
+        <translation>Дали да покаже възможностите за контрол на калинките или не.</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -1551,15 +1551,15 @@
     </message>
     <message>
         <source>Coin Control Features</source>
-        <translation>Настройки за контрол на монетите</translation>
+        <translation>Настройки за контрол на калинките</translation>
     </message>
     <message>
         <source>automatically selected</source>
-        <translation>астоматично избран</translation>
+        <translation>автоматично избран</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
-        <translation>Нямате достатъчно налични пари!</translation>
+        <translation>Нямате достатъчно налични калинки!</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -1583,11 +1583,11 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>След прилагане на ДДС</translation>
+        <translation>След таксата:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Ресто</translation>
+        <translation>Ресто:</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
@@ -1804,7 +1804,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Биткойн ядрото се изключва...</translation>
     </message>
     <message>
@@ -1930,7 +1930,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Биткойн ядро</translation>
     </message>
     <message>
@@ -2053,7 +2053,7 @@
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Генерираните монети трябва да отлежат %1 блока преди да могат да бъдат похарчени. Когато генерираш блока, той се разпространява в мрежата, за да се добави в блок-веригата. Ако не успее да се добави във веригата, неговия статус  ще се стане "неприет" и няма да може да се похарчи. Това е възможно да се случи случайно, ако друг възел генерира блок няколко секунди след твоя.</translation>
+        <translation>Генерираните калинки трябва да отлежат %1 блока преди да могат да бъдат похарчени. Когато генерираш блока, той се разпространява в мрежата, за да се добави в блок-веригата. Ако не успее да се добави във веригата, неговия статус  ще се стане "неприет" и няма да може да се похарчи. Това е възможно да се случи случайно, ако друг възел генерира блок няколко секунди след твоя.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2449,7 +2449,7 @@
     </message>
     <message>
         <source>Set the number of threads for coin generation if enabled (-1 = all cores, default: %d)</source>
-        <translation>Заложете броя на нишки за генерация на монети ако е включено(-1 = всички ядра, по подразбиране: %d)</translation>
+        <translation>Заложете броя на нишки за люпене на калинки ако е включено(-1 = всички ядра, по подразбиране: %d)</translation>
     </message>
     <message>
         <source>Connect through SOCKS5 proxy</source>

@@ -186,11 +186,11 @@
         <translation>Zachytávám...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Odeslané transakce</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Příchozí transakce</translation>
     </message>
     <message>

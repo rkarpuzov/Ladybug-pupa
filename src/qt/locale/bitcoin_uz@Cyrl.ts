@@ -290,7 +290,7 @@
         <translation>Интернет манзилни очиш</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin асос мижози</translation>
     </message>
     <message>
@@ -382,7 +382,7 @@
         <translation>Ички ойналар асбоблар панели</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -474,11 +474,11 @@
         <translation>Банд қилинмоқда...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Жўнатилган операция</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Кирувчи операция</translation>
     </message>
     <message>
@@ -777,7 +777,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -820,7 +820,7 @@
         <translation>Биринчи марта дастур ишга тушгани каби сиз Bitcoin Core маълумотларини жойлаштирадиган жойни танлашингиз мумкин.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core юклаб олинади ва Bitcoin блок занжири нусхаси жойлаштирилади. Камида %1GB  маълумот ушбу директорияга жойлаштирилади ва вақт давомида ўсиб боради. Ҳамён ҳам ушбу директорияда жойлашади.</translation>
     </message>
     <message>
@@ -832,7 +832,7 @@
         <translation>Бошқа маълумотлар директориясида фойдаланинг:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1740,7 +1740,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

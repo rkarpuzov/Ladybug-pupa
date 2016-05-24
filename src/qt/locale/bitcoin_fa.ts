@@ -164,7 +164,7 @@
         <translation>آیا مطمئن هستید که می‌خواهید کیف پول خود را رمزنگاری کنید؟</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>هسته بیت‌کوین هم اکنون بسته می‌شود تا فرایند رمزگذاری را تمام کند. به خاطر داشته باشید که رمزگذاری کردن کیف پول‌تان نمی‌تواند به طور کامل بیت‌کوین‌های شما را در برابر دزدیده شدن توسط بدافزارهایی که رایانه‌ی شما را آلوده می‌کنند، محافظت نماید.</translation>
     </message>
     <message>
@@ -382,7 +382,7 @@
         <translation>نوارابزار برگه‌ها</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation> هسته Bitcoin </translation>
     </message>
     <message>
@@ -462,11 +462,11 @@
         <translation>به‌روز رسانی...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>تراکنش ارسال شد</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>تراکنش دریافت شد</translation>
     </message>
     <message>
@@ -701,7 +701,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation> هسته Bitcoin </translation>
     </message>
     <message>
@@ -748,7 +748,7 @@
         <translation>استفاده از یک مسیر سفارشی:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation> هسته Bitcoin </translation>
     </message>
     <message>
@@ -1476,7 +1476,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation> هسته Bitcoin </translation>
     </message>
     <message>

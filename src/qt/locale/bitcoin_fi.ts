@@ -168,7 +168,7 @@
         <translation>Haluatko varmasti salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>Avaa &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core ohjelma</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>Välilehtipalkki</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Lähetetyt rahansiirrot</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Saapuva rahansiirto</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>Tämän on ensimmäinen kerta kun Bitcoin Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>Määritä oma kansio:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
@@ -2248,7 +2248,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin core sulkeutuu...</translation>
     </message>
     <message>
@@ -2390,7 +2390,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>

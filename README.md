@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Ladybug Pupa stable source tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
@@ -79,3 +79,8 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
+
+Thanks to:
+----------
+
+http://icoconvert.com/ for convertion of our logo to Windows ico file

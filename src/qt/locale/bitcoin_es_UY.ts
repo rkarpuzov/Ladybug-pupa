@@ -286,11 +286,11 @@
         <translation>Dirección: %1</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Transaccion enviada</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transacción entrante</translation>
     </message>
     <message>

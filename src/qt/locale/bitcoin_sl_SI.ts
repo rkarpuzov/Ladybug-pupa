@@ -168,7 +168,7 @@
         <translation>Ali ste prepričani, da želite šifrirati vašo denarnico?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Program se bo zaprl, da dokonča proces šifriranja. Zapomnite si, da šifriranje ne more popolnoma zaščititi vaše denarnice pred krajami in zlonamernimi programi, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
@@ -298,7 +298,7 @@
         <translation>Odpri &amp;URI ...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Odjemalec Bitcoin Core</translation>
     </message>
     <message>
@@ -390,7 +390,7 @@
         <translation>Orodna vrstica zavihkov</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -520,11 +520,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Odlivi</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Prilivi</translation>
     </message>
     <message>
@@ -847,7 +847,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -890,7 +890,7 @@
         <translation>To je prvi zagon programa, zato lahko izberete mapo, v katero bo program shranjeval podatke.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Program bo prenesel in shranil kopijo verige blokov. V izbrani podatkovni mapi bo shranjenih vsaj %1 GiB podatkov, ta količina pa bo sčasoma še naraščala. V tej mapi bo shranjena tudi denarnica.</translation>
     </message>
     <message>
@@ -902,7 +902,7 @@
         <translation>Uporabi to podatkovno mapo:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -2124,7 +2124,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Program se ustavlja ...</translation>
     </message>
     <message>
@@ -2274,7 +2274,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

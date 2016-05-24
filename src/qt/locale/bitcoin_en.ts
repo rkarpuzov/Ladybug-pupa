@@ -211,7 +211,7 @@
     </message>
     <message>
         <location line="+11"/>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -390,7 +390,7 @@
     </message>
     <message>
         <location line="+183"/>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -505,7 +505,7 @@
     </message>
     <message>
         <location line="-314"/>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation type="unfinished">Bitcoin Core</translation>
     </message>
     <message>
@@ -679,13 +679,13 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Sent transaction</source>
-        <translation>Sent transaction</translation>
+        <source>Sent migration</source>
+        <translation>Sent migration</translation>
     </message>
     <message>
         <location line="+0"/>
-        <source>Incoming transaction</source>
-        <translation>Incoming transaction</translation>
+        <source>Incoming migration</source>
+        <translation>Incoming migration</translation>
     </message>
     <message>
         <location line="+62"/>
@@ -1087,7 +1087,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+36"/>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation type="unfinished">Bitcoin Core</translation>
     </message>
     <message>
@@ -1176,7 +1176,7 @@
     </message>
     <message>
         <location line="+10"/>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1191,7 +1191,7 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation type="unfinished">Bitcoin Core</translation>
     </message>
     <message>
@@ -2924,7 +2924,7 @@
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+78"/>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3119,7 +3119,7 @@
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+41"/>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation type="unfinished">Bitcoin Core</translation>
     </message>
     <message>

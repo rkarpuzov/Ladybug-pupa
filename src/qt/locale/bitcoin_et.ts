@@ -326,7 +326,7 @@
         <translation>Vahelehe tööriistariba</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -420,11 +420,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Saadetud tehing</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Sisenev tehing</translation>
     </message>
     <message>
@@ -591,7 +591,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -622,7 +622,7 @@
         <translation>Teretulemast</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
@@ -1290,7 +1290,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>

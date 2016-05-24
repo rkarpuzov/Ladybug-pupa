@@ -282,11 +282,11 @@
         <translation>จับได้...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>รายการที่ส่ง</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>การทำรายการขาเข้า</translation>
     </message>
     <message>

@@ -254,7 +254,7 @@
         <translation>Bar offer tabiau</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Craidd Bitcoin</translation>
     </message>
     <message>
@@ -326,11 +326,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Trafodiad a anfonwyd</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Trafodiad sy'n cyrraedd</translation>
     </message>
     <message>
@@ -425,7 +425,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Craidd Bitcoin</translation>
     </message>
     <message>
@@ -448,7 +448,7 @@
         <translation>Croeso i Graidd Bitcoin</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Craidd Bitcoin</translation>
     </message>
     <message>
@@ -664,7 +664,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Craidd Bitcoin</translation>
     </message>
     <message>

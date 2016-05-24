@@ -234,11 +234,11 @@
         <translation>Ажурирање у току...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Послана трансакција</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Придошла трансакција</translation>
     </message>
     <message>

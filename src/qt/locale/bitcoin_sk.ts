@@ -168,7 +168,7 @@
         <translation>Ste si istí, že si želáte zašifrovať peňaženku?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Jadro Bitcoin sa teraz ukončí pre dokončenie procesu šifrovania. Pamätaj, že šifrovanie peňaženky Ťa nemôže úplne ochrániť pred krádežou bitcoinov pomocou škodlivého software.</translation>
     </message>
     <message>
@@ -298,7 +298,7 @@
         <translation>Otvoriť &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoin Core klient</translation>
     </message>
     <message>
@@ -390,7 +390,7 @@
         <translation>Lišta záložiek</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Jadro Bitcoin</translation>
     </message>
     <message>
@@ -520,11 +520,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Odoslané transakcie</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Prijatá transakcia</translation>
     </message>
     <message>
@@ -847,7 +847,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Jadro Bitcoin</translation>
     </message>
     <message>
@@ -890,7 +890,7 @@
         <translation>Keďže spúštate program prvý krát, môžte si vybrať kde bude Bitcoin Jadro ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Jadro Bitcoin stiahne zo siete a uloží kópiu Bitcoin blockchain. Aspoň %1GB dát bude uložených v tomto priečinku a časom porastie. Peňaženka bude tiež uložená v tomto priečinku.</translation>
     </message>
     <message>
@@ -902,7 +902,7 @@
         <translation>Použiť vlastný dátový adresár:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Jadro Bitcoin</translation>
     </message>
     <message>
@@ -2108,7 +2108,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Jadro Bitcoin sa ukončuje...</translation>
     </message>
     <message>
@@ -2246,7 +2246,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Jadro Bitcoin</translation>
     </message>
     <message>

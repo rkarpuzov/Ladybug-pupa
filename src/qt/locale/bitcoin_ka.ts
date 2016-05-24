@@ -362,7 +362,7 @@
         <translation>ბარათების პანელი</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -434,11 +434,11 @@
         <translation>ჩართვა...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>გაგზავნილი ტრანსაქციები</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>მიღებული ტრანსაქციები</translation>
     </message>
     <message>
@@ -725,7 +725,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -764,7 +764,7 @@
         <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Bitcoin Core-მ.</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core გადმოტვირთავს და შეინახავს Bitcoin-ის ბლოკთა ჯაჭვს. მითითებულ კატალოგში დაგროვდება სულ ცოტა %1 გბ მონაცემები, და მომავალში უფრო გაიზრდება. საფულეც ამავე კატალოგში შეინახება.</translation>
     </message>
     <message>
@@ -776,7 +776,7 @@
         <translation>მითითებული კატალოგის გამოყენება:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -1614,7 +1614,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Core იხურება...</translation>
     </message>
     <message>
@@ -1748,7 +1748,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>

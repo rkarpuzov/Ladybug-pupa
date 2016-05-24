@@ -246,7 +246,7 @@
         <translation>Shiriti i mjeteve</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>
@@ -278,11 +278,11 @@
         <translation>Duke u azhornuar...</translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>Dërgo transaksionin</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>Transaksion në ardhje</translation>
     </message>
     <message>
@@ -385,7 +385,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>
@@ -408,7 +408,7 @@
         <translation>Miresevini ne Berthamen Bitcoin</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>
@@ -624,7 +624,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>

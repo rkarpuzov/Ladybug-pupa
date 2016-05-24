@@ -168,7 +168,7 @@
         <translation>Estás seguro ue deseas encriptar tu cartera?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>Bitcoin Core se cerrará ahora para finalizar el proceso de encriptación. Recuerda que encriptar tu cartera no protege completamente tus bitcoins de ser robados por malware infectando tu ordenador.</translation>
     </message>
     <message>
@@ -298,7 +298,7 @@
         <translation>Abrir &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Cliente Bitcoin Core</translation>
     </message>
     <message>

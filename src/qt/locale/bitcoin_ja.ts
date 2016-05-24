@@ -168,7 +168,7 @@
         <translation>本当にウォレットを暗号化しますか?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
+        <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
         <translation>暗号化処理を完了させるため Bitcoin Core をいますぐ終了します。ウォレットの暗号化では、コンピュータに感染したマルウェアなどによるビットコインの盗難から完全に守ることはできないことにご注意ください。</translation>
     </message>
     <message>
@@ -306,7 +306,7 @@
         <translation>URI を開く (&amp;U)...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Ladybug Pupa client</source>
         <translation>Bitcoinコア クライアント</translation>
     </message>
     <message>
@@ -398,7 +398,7 @@
         <translation>タブツールバー</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin のコア</translation>
     </message>
     <message>
@@ -528,11 +528,11 @@
 </translation>
     </message>
     <message>
-        <source>Sent transaction</source>
+        <source>Sent migration</source>
         <translation>送金取引</translation>
     </message>
     <message>
-        <source>Incoming transaction</source>
+        <source>Incoming migration</source>
         <translation>着金取引</translation>
     </message>
     <message>
@@ -855,7 +855,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin のコア</translation>
     </message>
     <message>
@@ -926,7 +926,7 @@
         <translation>これはプログラム最初の起動です。Bitcoin Coreがデータを保存する場所を選択して下さい。</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Coreは、ビットコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
     </message>
     <message>
@@ -938,7 +938,7 @@
         <translation>任意のデータ ディレクトリを使用:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin のコア</translation>
     </message>
     <message>
@@ -2264,7 +2264,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
+        <source>Ladybug Pupa is shutting down...</source>
         <translation>Bitcoin Coreをシャットダウンしています。</translation>
     </message>
     <message>
@@ -2414,7 +2414,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Ladybug Pupa</source>
         <translation>Bitcoin のコア</translation>
     </message>
     <message>
