@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core se cerrará ahora para completar el procedo de encriptación. Recuerda que encriptar tu cartera no te protegerá completamente de la pérdida de bitcoins por infección de malware en tu computadora.</translation>
+        <translation>Ladybug Pupa se cerrará ahora para completar el procedo de encriptación. Recuerda que encriptar tu cartera no te protegerá completamente de la pérdida de bitcoins por infección de malware en tu computadora.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Cliente Bitcoin Core</translation>
+        <translation>Cliente Ladybug Pupa</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Recibir</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Mostrar información acerca de Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Mostrar información acerca de Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -399,18 +399,18 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Solicitar pagos (generando códigos QR e identificadores URI "bitcoin:")</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Acerca de Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Acerca de Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Modificar las opciones de configuración de Bitcoin</translation>
     </message>
     <message>
@@ -430,8 +430,8 @@
         <translation>&amp;Opciones de consola de comandos</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Mostrar el mensaje de ayuda de Bitcoin Core con una lista de las posibles opciones de la consola de comandos de Bitcoin</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Mostrar el mensaje de ayuda de Ladybug Pupa con una lista de las posibles opciones de la consola de comandos de Bitcoin</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -856,7 +856,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -867,8 +867,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Acerca de Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Acerca de Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -914,16 +914,16 @@
         <translation>Bienvenido</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Bienvenido a Bitcoin Core</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Bienvenido a Ladybug Pupa</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Al ser la primera vez que se ejecuta el programa, puede elegir dónde almacenará sus datos Bitcoin Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Al ser la primera vez que se ejecuta el programa, puede elegir dónde almacenará sus datos Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core va a descargar y guardar una copia de la cadena de bloques de Bitcoin. Se almacenará al menos %1GB de datos en este directorio, que irá creciendo con el tiempo. El monedero se guardará también en este directorio.</translation>
+        <translation>Ladybug Pupa va a descargar y guardar una copia de la cadena de bloques de Bitcoin. Se almacenará al menos %1GB de datos en este directorio, que irá creciendo con el tiempo. El monedero se guardará también en este directorio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -935,7 +935,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1016,7 +1016,7 @@
         <translation>Minimizar en lugar de salir de la aplicación cuando la ventana está cerrada. Cuando se activa esta opción, la aplicación sólo se cerrará después de seleccionar Salir en el menú.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>El idioma de la interfaz de usuario puede establecerse aquí. Este ajuste se aplicará cuando se reinicie Bitcoin.</translation>
     </message>
     <message>
@@ -1044,12 +1044,12 @@
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Iniciar automáticamente Bitcoin Core al iniciar el sistema.</translation>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
+        <translation>Iniciar automáticamente Ladybug Pupa al iniciar el sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
-        <translation>&amp;Iniciar Bitcoin Core al inicio del sistema</translation>
+        <source>&amp;Start Ladybug Pupa on system login</source>
+        <translation>&amp;Iniciar Ladybug Pupa al inicio del sistema</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1239,7 +1239,7 @@
         <translation>No madurado:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Saldo recién minado que aún no ha madurado.</translation>
     </message>
     <message>
@@ -1271,7 +1271,7 @@
         <translation>Transacciones sin confirmar en direcciones watch-only</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Saldo minado en direcciones watch-only que aún no ha madurado</translation>
     </message>
     <message>
@@ -1514,7 +1514,7 @@
         <translation>Uso de memoria</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Abre el archivo de registro de depuración de Bitcoin desde el directorio de datos actual. Esto puede tardar unos segundos para ficheros de registro de gran tamaño.</translation>
     </message>
     <message>
@@ -1674,8 +1674,8 @@
         <translation>&amp;Desbanear Nodo</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Bienvenido a la consola RPC de Bitcoin Core.</translation>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2261,7 +2261,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Bitcoin Core se está cerrando...</translation>
+        <translation>Ladybug Pupa se está cerrando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2411,11 +2411,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Los desarrolladores de Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Los desarrolladores de Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2662,7 +2662,7 @@
         <translation>Pago propio</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>
@@ -2741,7 +2741,7 @@
         <translation>A usted mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>
@@ -2934,8 +2934,8 @@
         <translation>Máximas comisiones totales (en %s) para utilizar en una sola transacción de la cartera; establecer esto demasiado bajo puede abortar grandes transacciones (predeterminado: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
-        <translation>Por favor, mira si la fecha y la hora en tu computador son correctas! Si tu hara es errónea Bitcoin Core no funcionará correctamente.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Ladybug Pupa will not work properly.</source>
+        <translation>Por favor, mira si la fecha y la hora en tu computador son correctas! Si tu hara es errónea Ladybug Pupa no funcionará correctamente.</translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
@@ -3007,8 +3007,8 @@
         <translation>Esta es una versión de pre-prueba - utilícela bajo su propio riesgo. No la utilice para usos comerciales o de minería.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>No se ha podido acceder a %s en esta máquina. Probablemente ya se está ejecutando Bitcoin Core.</translation>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
+        <translation>No se ha podido acceder a %s en esta máquina. Probablemente ya se está ejecutando Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3211,8 +3211,8 @@
         <translation>Ligar a las direcciones especificadas para escuchar por conexiones JSON-RPC. Usar la notación para IPv6 [host]:puerto. Esta opción se puede especificar múltiples veces (por defecto: ligar a todas las interfaces)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>No se ha podido bloquear el directorio de datos %s. Probablemente ya se está ejecutando Bitcoin Core.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
+        <translation>No se ha podido bloquear el directorio de datos %s. Probablemente ya se está ejecutando Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3311,12 +3311,12 @@
         <translation>Conectar usando SOCKS5 proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Copyright (C) 2009-%i The Ladybug Pupa Developers</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de Bitcoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una versión más reciente de Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3331,8 +3331,8 @@
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>La inicialización de la verificación de validez falló. Se está apagando Bitcoin Core.</translation>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
+        <translation>La inicialización de la verificación de validez falló. Se está apagando Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3452,8 +3452,8 @@
 </translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
-        <translation>Monedero es necesario volver a escribir: reiniciar Bitcoin Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
+        <translation>Monedero es necesario volver a escribir: reiniciar Ladybug Pupa para completar</translation>
     </message>
     <message>
         <source>Warning</source>

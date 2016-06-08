@@ -833,7 +833,7 @@
         <translation>وجه برای شما </translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>استخراج شده</translation>
     </message>
     <message>
@@ -900,7 +900,7 @@
         <translation>به شما</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>استخراج شده</translation>
     </message>
     <message>

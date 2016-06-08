@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core klijent</translation>
+        <translation>Ladybug Pupa klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -346,8 +346,8 @@
         <translation>Pri&amp;mi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Prikaži informacije o programu Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Prikaži informacije o programu Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -387,18 +387,18 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Zatraži uplatu (stvara QR kod i bitcoin: URI adresu)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;O programu Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;O programu Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Promijeni postavke programa</translation>
     </message>
     <message>
@@ -418,7 +418,7 @@
         <translation>Opcije &amp;naredbene linije</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Ispis svih opcija naredbene linije programa sa kratkim opisom</translation>
     </message>
     <message numerus="yes">
@@ -748,7 +748,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -759,8 +759,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>O programu Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>O programu Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -782,12 +782,12 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Dobrodošli u programu Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Dobrodošli u programu Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -864,11 +864,11 @@
         <translation>&amp;Mreža</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation>Program se automatski pokrene po prijavi u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>&amp;Pokreni program kod prijave u sustav</translation>
     </message>
     <message>
@@ -1086,7 +1086,7 @@
         <translation>Očisti konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>Dobrodošli u Bitcoin RPC konzolu.</translation>
     </message>
     <message>
@@ -1407,7 +1407,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1578,7 +1578,7 @@
         <translation>Plaćanje samom sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Rudareno</translation>
     </message>
     <message>
@@ -1645,7 +1645,7 @@
         <translation>Samom sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Rudareno</translation>
     </message>
     <message>

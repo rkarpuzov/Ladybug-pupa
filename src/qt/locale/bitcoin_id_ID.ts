@@ -330,7 +330,7 @@
         <translation>&amp;Menerima</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>Tampilkan informasi tentang Bitcoin Inti</translation>
     </message>
     <message>
@@ -371,15 +371,15 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Permintaan pembayaran (membangkitkan kode QR dan bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Mengenai Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Mengenai Ladybug Pupa</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -398,8 +398,8 @@
         <translation>&amp;pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Tampilkan pesan bantuan Bitcoin Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitcoin</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Tampilkan pesan bantuan Ladybug Pupa untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Bitcoin</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -788,15 +788,15 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
         <translation>versi</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Mengenai Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Mengenai Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -818,8 +818,8 @@
         <translation>Selamat Datang</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Selamat Datang ke Bitcoin Core</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Selamat Datang ke Ladybug Pupa</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -831,7 +831,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1059,7 +1059,7 @@
         <translation>Terlalu Muda:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Saldo ditambang yang masih terlalu muda</translation>
     </message>
     <message>
@@ -1304,7 +1304,7 @@
         <translation>1 &amp;tahun</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>Selamat datang di konsol RPC Bitcoin.</translation>
     </message>
     <message>
@@ -1763,7 +1763,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Bitcoin Core sementara dimatikan...</translation>
+        <translation>Ladybug Pupa sementara dimatikan...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1893,11 +1893,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Pembangun Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Pembangun Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2128,7 +2128,7 @@
         <translation>Pembayaran ke Anda sendiri</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Tertambang</translation>
     </message>
     <message>
@@ -2195,7 +2195,7 @@
         <translation>Ke Anda sendiri</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Ditambang</translation>
     </message>
     <message>
@@ -2370,8 +2370,8 @@
         <translation>Jalankan perintah ketika perubahan transaksi dompet (%s di cmd digantikan oleh TxID)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Bitcoin Core sudah mulai.</translation>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
+        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Ladybug Pupa sudah mulai.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2470,8 +2470,8 @@
         <translation>Harus membangun ulang database menggunakan -reindex supaya mengubah -txindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Bitcoin Core sudah mulai.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
+        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Ladybug Pupa sudah mulai.</translation>
     </message>
     <message>
         <source>Cannot resolve -whitebind address: '%s'</source>

@@ -338,7 +338,7 @@
         <translation>&amp;Ricevi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>Vidigi informon pri Bitmona Kerno</translation>
     </message>
     <message>
@@ -386,7 +386,7 @@
         <translation>Peti pagon (kreas QR-kodojn kaj URI-ojn kun prefikso bitcoin:)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>&amp;Pri la Bitmona Kerno</translation>
     </message>
     <message>
@@ -797,7 +797,7 @@
         <translation>versio</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Pri la Bitmona Kerno</translation>
     </message>
     <message>
@@ -820,16 +820,16 @@
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Bonvenon al la bitmona kerno, Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Bonvenon al la bitmona kerno, Ladybug Pupa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Bitcoin Core stokos siajn datumojn.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Dum tiu ĉi unua uzo de la programo, vi povas elekti lokon, kie Ladybug Pupa stokos siajn datumojn.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core elŝutos kaj konservos kopion de la bitmona blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
+        <translation>Ladybug Pupa elŝutos kaj konservos kopion de la bitmona blokĉeno. Almenaŭ %1GB da datumoj konserviĝos en tiu loko, kaj tio poiome kreskos. Ankaŭ via monujo konserviĝos en tiu dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1029,7 +1029,7 @@
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Minita saldo, kiu ankoraŭ ne maturiĝis</translation>
     </message>
     <message>
@@ -1772,7 +1772,7 @@
         <translation>Kerno de Bitmono</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>La programistoj de Bitmona Kerno</translation>
     </message>
     <message>
@@ -1976,7 +1976,7 @@
         <translation>Pago al vi mem</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minita</translation>
     </message>
     <message>
@@ -2043,7 +2043,7 @@
         <translation>Al vi mem</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minita</translation>
     </message>
     <message>

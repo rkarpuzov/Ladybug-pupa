@@ -170,7 +170,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Το Bitcoin Core θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογράφησης. Θυμήσου ότι κρυπτογραφώντας το πορτοφόλι σου δεν μπορείς να προστατέψεις πλήρως τα bitcoins σου από κλοπή στην περίπτωση που μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.
+        <translation>Το Ladybug Pupa θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογράφησης. Θυμήσου ότι κρυπτογραφώντας το πορτοφόλι σου δεν μπορείς να προστατέψεις πλήρως τα bitcoins σου από κλοπή στην περίπτωση που μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.
 </translation>
     </message>
     <message>
@@ -301,7 +301,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Εφαρμογή Bitcoin Core</translation>
+        <translation>Εφαρμογή Ladybug Pupa</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -352,8 +352,8 @@
         <translation>&amp;Παραλαβή </translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Σχετικά με το Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Σχετικά με το Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -393,15 +393,15 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις bitcoin: )</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Σχετικά με το Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Σχετικά με το Ladybug Pupa</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -420,7 +420,7 @@
         <translation>&amp;Επιλογές γραμμής εντολών</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Εμφανιση του Bitcoin-Qt μήνυματος βοήθειας για να πάρετε μια λίστα με τις πιθανές επιλογές Bitcoin γραμμής εντολών.</translation>
     </message>
     <message>
@@ -823,7 +823,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -834,8 +834,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Σχετικά με το Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Σχετικά με το Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -857,12 +857,12 @@
         <translation>Καλώς ήρθατε</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Καλώς ήρθατε στο Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Καλώς ήρθατε στο Ladybug Pupa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Bitcoin Core τα δεδομένα του.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Ladybug Pupa τα δεδομένα του.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
@@ -878,7 +878,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1139,7 +1139,7 @@
         <translation>Ανώριμος</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Εξορυγμενο υπόλοιπο που δεν έχει ακόμα ωριμάσει </translation>
     </message>
     <message>
@@ -1171,7 +1171,7 @@
         <translation>Μη επικυρωμένες συναλλαγές σε διευθύνσεις παρακολούθησης μόνο</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Εξορυγμένο υπόλοιπο σε διευθύνσεις παρακολούθησης μόνο που δεν έχει ωριμάσει ακόμα</translation>
     </message>
     <message>
@@ -1917,7 +1917,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Το Bitcoin Core τερματίζεται...</translation>
+        <translation>Το Ladybug Pupa τερματίζεται...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2059,11 +2059,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Οι προγραμματιστές του Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Οι προγραμματιστές του Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2286,7 +2286,7 @@
         <translation>Πληρωμή προς εσάς</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Εξόρυξη</translation>
     </message>
     <message>
@@ -2357,7 +2357,7 @@
         <translation>Προς εσάς</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Εξόρυξη</translation>
     </message>
     <message>
@@ -2644,7 +2644,7 @@
         <translation>Επιλογές πορτοφολιού:</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation>Αδυναμία κλειδώματος του φακέλου δεδομένων %s. Πιθανώς το Bitcoin να είναι ήδη ενεργό.</translation>
     </message>
     <message>
@@ -2652,11 +2652,11 @@
         <translation>Σύνδεση μέσω διαμεσολαβητή SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Πνευματικά δικαιώματα 2009-%i Οι προγραμματιστές του Bitcoin Core</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Πνευματικά δικαιώματα 2009-%i Οι προγραμματιστές του Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Bitcoin</translation>
     </message>
     <message>
@@ -2668,8 +2668,8 @@
         <translation>Πληροφορία</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε.  Γίνεται τερματισμός του Bitcoin Core.</translation>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
+        <translation>Η εκκίνηση ελέγχου ορθότητας απέτυχε.  Γίνεται τερματισμός του Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>

@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Odjemalec Bitcoin Core</translation>
+        <translation>Odjemalec Ladybug Pupa</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -350,7 +350,7 @@
         <translation>P&amp;rejmi</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>Oglejte si informacije o programu</translation>
     </message>
     <message>
@@ -391,18 +391,18 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Zahtevajte plačilo (ustvarite zahtevek s kodo QR in URI tipa bitcoin:)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>&amp;O programu</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Spremenite programske nastavitve</translation>
     </message>
     <message>
@@ -422,7 +422,7 @@
         <translation>Opcije &amp;ukazne vrstice</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Oglejte si seznam in kratek opis vseh opcij pri zagonu programa iz ukazne vrstice</translation>
     </message>
     <message numerus="yes">
@@ -848,7 +848,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -859,8 +859,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>O programu Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>O programu Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -882,11 +882,11 @@
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Dobrodošli v programu Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Dobrodošli v programu Ladybug Pupa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>To je prvi zagon programa, zato lahko izberete mapo, v katero bo program shranjeval podatke.</translation>
     </message>
     <message>
@@ -903,7 +903,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -984,7 +984,7 @@
         <translation>Ko zaprete glavno okno programa, bo program tekel še naprej, okno pa bo zgolj minimirano. Program v tem primeru ustavite tako, da v meniju izberete ukaz Izhod.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>Nastavitev jezika uporabniškega vmesnika programa. Nova nastavitev jezika bo uporabljena šele, ko boste znova zagnali program.</translation>
     </message>
     <message>
@@ -1012,11 +1012,11 @@
         <translation>&amp;Omrežje</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation>Ob uporabnikovi prijavi v sistem se bo program samodejno zagnal</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>&amp;Zaženi program ob prijavi v sistem</translation>
     </message>
     <message>
@@ -1183,7 +1183,7 @@
         <translation>Nedozorelo:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Nedozorel narudarjeni znesek</translation>
     </message>
     <message>
@@ -1215,7 +1215,7 @@
         <translation>Nepotrjene transakcije na opazovanih naslovih</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Nedozoreli narudarjeni znesek na opazovanih naslovih</translation>
     </message>
     <message>
@@ -1446,7 +1446,7 @@
         <translation>Trenutno število blokov</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Odpre razhroščevalni dnevnik debug.log, ki se nahaja v trenutni podatkovni mapi. Če je datoteka velika, lahko postopek traja nekaj sekund.</translation>
     </message>
     <message>
@@ -1550,8 +1550,8 @@
         <translation>Počisti konzolo</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Dobrodošli v konzoli RPC programa Bitcoin Core.</translation>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
+        <translation>Dobrodošli v konzoli RPC programa Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2275,11 +2275,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core razvijalci</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Ladybug Pupa razvijalci</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2526,7 +2526,7 @@
         <translation>Nakazilo sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Narudarjeno</translation>
     </message>
     <message>
@@ -2605,7 +2605,7 @@
         <translation>Nakazilo sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Narudarjeno</translation>
     </message>
     <message>
@@ -2812,8 +2812,8 @@
         <translation>To je preizkusna različica še neizdanega programa. Uporabljate jo na lastno odgovornost. Programa ne uporabljajte je za rudarjenje ali trgovske aplikacije.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Na tem računalniku ni bilo mogoče vezati naslova %s. Odjemalec Bitcoin Core je verjetno že zagnan.</translation>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
+        <translation>Na tem računalniku ni bilo mogoče vezati naslova %s. Odjemalec Ladybug Pupa je verjetno že zagnan.</translation>
     </message>
     <message>
         <source>WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)</source>
@@ -2976,8 +2976,8 @@
         <translation>Veži dani naslov in sprejemaj povezave na JSON-RPC. Za naslove protokola IPv6 uporabite zapis [gostitelj]:vrata. To opcijo lahko navedete večkrat. (privzeto: veži vse omrežne vmesnike)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Ne morem zakleniti podatkovne mape %s. Bitcoin Core je verjetno že zagnan.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
+        <translation>Ne morem zakleniti podatkovne mape %s. Ladybug Pupa je verjetno že zagnan.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3020,8 +3020,8 @@
         <translation>Poveži se preko posredniškega strežnika SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i The Bitcoin Core Developers</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Copyright (C) 2009-%i The Ladybug Pupa Developers</translation>
     </message>
     <message>
         <source>Information</source>

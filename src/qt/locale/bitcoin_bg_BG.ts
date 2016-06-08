@@ -35,11 +35,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>За Биткойн ядрото</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>За Калинка какавида</translation>
     </message>
     </context>
 <context>
@@ -58,18 +58,18 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>За Биткойн ядрото</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>За Калинка какавида</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     </context>
 <context>
@@ -121,7 +121,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     </context>
 <context>

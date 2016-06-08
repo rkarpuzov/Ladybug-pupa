@@ -455,7 +455,7 @@
     </message>
     <message>
         <location line="+40"/>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -506,7 +506,7 @@
     <message>
         <location line="-314"/>
         <source>Ladybug Pupa</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">Ladybug Pupa</translation>
     </message>
     <message>
         <location line="+160"/>
@@ -515,12 +515,12 @@
     </message>
     <message>
         <location line="+38"/>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -545,7 +545,7 @@
     </message>
     <message>
         <location line="+2"/>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
@@ -1088,7 +1088,7 @@
     <message>
         <location filename="../utilitydialog.cpp" line="+36"/>
         <source>Ladybug Pupa</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">Ladybug Pupa</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1103,7 +1103,7 @@
     </message>
     <message>
         <location line="+5"/>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1166,12 +1166,12 @@
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1192,7 +1192,7 @@
     <message>
         <location filename="../intro.cpp" line="+82"/>
         <source>Ladybug Pupa</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">Ladybug Pupa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1299,7 +1299,7 @@
     </message>
     <message>
         <location line="+45"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1335,12 +1335,12 @@
     </message>
     <message>
         <location line="-153"/>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1585,8 +1585,8 @@
     </message>
     <message>
         <location line="-29"/>
-        <source>Mined balance that has not yet matured</source>
-        <translation>Mined balance that has not yet matured</translation>
+        <source>Metamorphose balance that has not yet matured</source>
+        <translation>Metamorphose balance that has not yet matured</translation>
     </message>
     <message>
         <location line="-177"/>
@@ -1625,7 +1625,7 @@
     </message>
     <message>
         <location line="+50"/>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1968,7 +1968,7 @@
     </message>
     <message>
         <location line="+48"/>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2176,7 +2176,7 @@
     </message>
     <message>
         <location line="+70"/>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3120,11 +3120,11 @@
     <message>
         <location filename="../splashscreen.cpp" line="+41"/>
         <source>Ladybug Pupa</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">Ladybug Pupa</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3457,8 +3457,8 @@
     </message>
     <message>
         <location line="+2"/>
-        <source>Mined</source>
-        <translation>Mined</translation>
+        <source>Metamorphose</source>
+        <translation>Metamorphose</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -3556,8 +3556,8 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Mined</source>
-        <translation>Mined</translation>
+        <source>Metamorphose</source>
+        <translation>Metamorphose</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3791,7 +3791,7 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
+        <source>Please check that your computer&apos;s date and time are correct! If your clock is wrong Ladybug Pupa will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3881,7 +3881,7 @@
     </message>
     <message>
         <location line="+13"/>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4141,7 +4141,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4266,12 +4266,12 @@
     </message>
     <message>
         <location line="+3"/>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+15"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4291,7 +4291,7 @@
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4441,7 +4441,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

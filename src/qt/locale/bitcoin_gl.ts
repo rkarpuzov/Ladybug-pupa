@@ -358,8 +358,8 @@
         <translation>Solicitar pagos (xenera códigos QR e bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Sobre Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Sobre Ladybug Pupa</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -689,7 +689,7 @@
         <translation>versión</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Sobre Bitcoin core</translation>
     </message>
     <message>
@@ -873,7 +873,7 @@
         <translation>Inmaduro:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>O balance minado todavía non madurou</translation>
     </message>
     <message>
@@ -1524,8 +1524,8 @@
         <translation>Core de Bitcoin</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Os desarrolladores de Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Os desarrolladores de Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1720,7 +1720,7 @@
         <translation>Pago a ti mesmo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>
@@ -1787,7 +1787,7 @@
         <translation>A ti mesmo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>

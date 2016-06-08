@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core se cerrará ahora para finalizar el proceso de encriptación. Recuerda que encriptar tu cartera no protege completamente tus bitcoins de ser robados por malware infectando tu ordenador.</translation>
+        <translation>Ladybug Pupa se cerrará ahora para finalizar el proceso de encriptación. Recuerda que encriptar tu cartera no protege completamente tus bitcoins de ser robados por malware infectando tu ordenador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Cliente Bitcoin Core</translation>
+        <translation>Cliente Ladybug Pupa</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>

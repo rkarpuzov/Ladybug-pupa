@@ -310,8 +310,8 @@
         <translation>y recibir</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Mostrar informacion sobre Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Mostrar informacion sobre Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -346,11 +346,11 @@
         <translation>Pide pagos (genera codigos QR and bitcoin: URls)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Sobre Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Sobre Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Modifica las opciones para BitCoin Core</translation>
     </message>
     <message>
@@ -1248,7 +1248,7 @@
         <translation>Pagar a usted mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>
@@ -1315,7 +1315,7 @@
         <translation>A ti mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>

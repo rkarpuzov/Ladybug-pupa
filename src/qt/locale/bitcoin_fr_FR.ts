@@ -660,7 +660,7 @@
         <translation>Paiement à vous-même</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Extraction</translation>
     </message>
     <message>
@@ -727,7 +727,7 @@
         <translation>À vous-même</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Extraction</translation>
     </message>
     <message>

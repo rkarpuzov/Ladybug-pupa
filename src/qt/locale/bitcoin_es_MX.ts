@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>cliente Bitcoin Core</translation>
+        <translation>cliente Ladybug Pupa</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -342,15 +342,15 @@
         <translation>nucleo Bitcoin</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>Acerca de Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>Acerca de Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>opciones de la &amp;Linea de comandos</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Mostrar mensaje de ayuda del nucleo de Bitcoin para optener una lista con los posibles comandos  de Bitcoin</translation>
     </message>
     <message>
@@ -517,8 +517,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Acerca de Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Acerca de Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -849,11 +849,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Los desarrolladores de Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Los desarrolladores de Ladybug Pupa</translation>
     </message>
     </context>
 <context>
@@ -976,7 +976,7 @@
         <translation>Pagar a si mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado </translation>
     </message>
     <message>
@@ -1035,7 +1035,7 @@
         <translation>Para ti mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado </translation>
     </message>
     <message>

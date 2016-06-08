@@ -71,7 +71,7 @@
     </message>
     <message>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са Вашите Биткойн адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
+        <translation>Това са Вашите Калинка адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -338,8 +338,8 @@
         <translation>&amp;Получаване</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Покажете информация за Биткойн ядрото</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Покажете информация за Калинка какавидата</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,11 +355,11 @@
     </message>
     <message>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Пишете съобщения със своя Биткойн адрес за да докажете,че е ваш.</translation>
+        <translation>Пишете съобщения със своя Калинка адрес за да докажете,че е ваш.</translation>
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Биткойн адреси.</translation>
+        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Калинка адреси.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -379,15 +379,15 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка Какавида</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Изискване на плащания(генерира QR кодове и биткойн: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Относно Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Относно Ladybug Pupa</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -406,8 +406,8 @@
         <translation>&amp;Налични команди</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Покажи помощните съобщения на Биткойн за да видиш наличните и валидни команди</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Покажи помощните съобщения на Калинка за да видиш наличните и валидни команди</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -784,7 +784,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка Какавида</translation>
     </message>
     <message>
         <source>version</source>
@@ -795,8 +795,8 @@
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Относно Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Относно Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -818,12 +818,12 @@
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Добре дошли в Биткойн ядрото.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Добре дошли в Калинка какавидата.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Биткон ядрото да запази данните си.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Калинка какавидата да запази данните си.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -835,7 +835,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     <message>
         <source>Error</source>
@@ -900,8 +900,8 @@
         <translation>&amp;Мрежа</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Автоматично стартиране на Bitcoin Core след влизане в системата.</translation>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
+        <translation>Автоматично стартиране на Ladybug Pupa след влизане в системата.</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -929,7 +929,7 @@
     </message>
     <message>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Свързване с Биткойн мрежата чрез SOCKS5  прокси.</translation>
+        <translation>Свързване с Калинка мрежата чрез SOCKS5  прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1047,8 +1047,8 @@
         <translation>Неразвит:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
-        <translation>Миниран баланс,който все още не се е развил</translation>
+        <source>Metamorphose balance that has not yet matured</source>
+        <translation>Излюпени калинки, които все още не са е развили</translation>
     </message>
     <message>
         <source>Balances</source>
@@ -1099,7 +1099,7 @@
     </message>
     <message>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Биткойн не можe да се стартира: click-to-pay handler</translation>
+        <translation>Калинка не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1157,7 +1157,7 @@
     </message>
     <message>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Въведете Биткойн адрес (например: %1)</translation>
+        <translation>Въведете Калинка адрес (например: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1723,7 +1723,7 @@
     </message>
     <message>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Внимание: Невалиден Биткойн адрес</translation>
+        <translation>Внимание: Невалиден Калинка адрес</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1805,7 +1805,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Биткойн ядрото се изключва...</translation>
+        <translation>Калинка какавидата се изключва...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1931,11 +1931,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Биткойн ядро</translation>
+        <translation>Калинка какавида</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Разработчици на Bitcoin Core</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Разработчици на Ladybug Pupa</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2162,8 +2162,8 @@
         <translation>Плащане към себе си</translation>
     </message>
     <message>
-        <source>Mined</source>
-        <translation>Емитирани</translation>
+        <source>Metamorphose</source>
+        <translation>Излюпени</translation>
     </message>
     <message>
         <source>watch-only</source>
@@ -2233,7 +2233,7 @@
         <translation>Собствени</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Емитирани</translation>
     </message>
     <message>
@@ -2456,8 +2456,8 @@
         <translation>Свързване чрез SOCKS5  прокси</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Всички права запазени (C) 2009-%i Доставчиците на Биткойн</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Всички права запазени (C) 2015-%i Доставчиците на Калинка Какавида</translation>
     </message>
     <message>
         <source>Information</source>

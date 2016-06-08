@@ -601,7 +601,7 @@
         <translation>Immature:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Reng me-minang balanse a epa meg-matured</translation>
     </message>
     <message>
@@ -1188,7 +1188,7 @@
         <translation>Kabayaran keka</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Me-mina</translation>
     </message>
     <message>
@@ -1255,7 +1255,7 @@
         <translation>Keng sarili mu</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Me-mina</translation>
     </message>
     <message>

@@ -358,7 +358,7 @@
         <translation>接收(&amp;R)</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>显示有关比特币核心钱包信息</translation>
     </message>
     <message>
@@ -406,11 +406,11 @@
         <translation>请求支付（生成二维码和 bitcoin: URI）</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>关于比特币核心(&amp;A)</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>修改比特币核心的配置选项</translation>
     </message>
     <message>
@@ -430,7 +430,7 @@
         <translation>命令行选项(&amp;C)</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>显示比特币核心 程序帮助信息，获取可用的命令行选项 </translation>
     </message>
     <message numerus="yes">
@@ -867,7 +867,7 @@
         <translation>(%1 位)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>关于比特币核心</translation>
     </message>
     <message>
@@ -918,11 +918,11 @@
         <translation>欢迎</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>欢迎使用 比特币核心 程序。</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>由于这是第一次运行 比特币核心 程序，您可以选择数据存储目录。</translation>
     </message>
     <message>
@@ -1020,7 +1020,7 @@
         <translation>窗口被关闭时最小化而不是退出应用程序。当此选项启用时，应用程序只会在菜单中选择退出时退出。</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>可以在这里设置用户界面语言。此设置将在重新启动比特币核心后生效。</translation>
     </message>
     <message>
@@ -1048,11 +1048,11 @@
         <translation>网络(&amp;N)</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation>登录到系统后自动启动比特币核心。</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>系统登录时启动比特币核心(&amp;S)</translation>
     </message>
     <message>
@@ -1243,7 +1243,7 @@
         <translation>未成熟的：</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>尚未成熟的挖矿收入余额</translation>
     </message>
     <message>
@@ -1275,7 +1275,7 @@
         <translation>观察地址(watch-only address)的未确认交易记录 </translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>观察地址(watch-only address)中尚未成熟(matured)的挖矿收入余额：</translation>
     </message>
     <message>
@@ -1518,7 +1518,7 @@
         <translation>内存使用</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>从当前的数据目录打开比特币核心调试日志文件。对于较大的日志文件，这可能需要几秒钟。</translation>
     </message>
     <message>
@@ -1674,7 +1674,7 @@
         <translation>(&amp;U)允许节点连接</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>欢迎使用 比特币核心 RPC 控制台。</translation>
     </message>
     <message>
@@ -2414,8 +2414,8 @@
         <translation>比特币核心</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core 的开发者</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Ladybug Pupa 的开发者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2662,7 +2662,7 @@
         <translation>付款给自己</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>挖矿所得</translation>
     </message>
     <message>
@@ -2741,7 +2741,7 @@
         <translation>到自己</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>挖矿所得</translation>
     </message>
     <message>
@@ -2935,7 +2935,7 @@
         <translation>最大单次转账费用（%s），设置太低可能导致大宗交易失败（默认：%s）</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Ladybug Pupa will not work properly.</source>
         <translation>警请检查电脑的日期时间设置是否正确！时间错误可能会导致比特币客户端运行异常。</translation>
     </message>
     <message>
@@ -3001,7 +3001,7 @@
         <translation>这是测试用的预发布版本 - 请谨慎使用 - 不要用来挖矿，或者在正式商用环境下使用</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
         <translation>无法 %s的绑定到电脑上，比特币核心钱包可能已经在运行。</translation>
     </message>
     <message>
@@ -3205,7 +3205,7 @@
         <translation>绑定到指定地址监听 JSON-RPC连接。 IPv6使用[主机]:端口 格式。该选项可多次指定 (默认: 绑定到所有接口) </translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation>无法获取数据目录的 %s. 比特币核心钱包可能已经在运行.</translation>
     </message>
     <message>
@@ -3289,11 +3289,11 @@
         <translation>通过 SOCKS5 代理连接</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>版权所有 (C) 2009-%i Bitcoin Core 开发者</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>版权所有 (C) 2009-%i Ladybug Pupa 开发者</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>加载wallet.dat错误：需要新版的比特币核心钱包</translation>
     </message>
     <message>
@@ -3305,8 +3305,8 @@
         <translation>信息</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>初始化完整性检查失败。Bitcoin Core 即将关闭。</translation>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
+        <translation>初始化完整性检查失败。Ladybug Pupa 即将关闭。</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3413,7 +3413,7 @@
         <translation>JSON-RPC 连接用户名</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
         <translation>钱包需要被改写：重新启动核心钱包来完成</translation>
     </message>
     <message>

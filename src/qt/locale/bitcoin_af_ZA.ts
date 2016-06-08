@@ -552,7 +552,7 @@
         <translation>Betalings Aan/na jouself</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Gemyn</translation>
     </message>
     <message>
@@ -611,7 +611,7 @@
         <translation>Aan/na jouself</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Gemyn</translation>
     </message>
     <message>

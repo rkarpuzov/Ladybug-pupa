@@ -286,7 +286,7 @@
         <translation>&amp;Прими</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>Прикажи информации за Биткоин Core</translation>
     </message>
     <message>
@@ -310,7 +310,7 @@
         <translation>Биткоин Core</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>&amp;За Биткоин Core</translation>
     </message>
     <message numerus="yes">
@@ -587,7 +587,7 @@
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>За Биткоин Core</translation>
     </message>
     </context>

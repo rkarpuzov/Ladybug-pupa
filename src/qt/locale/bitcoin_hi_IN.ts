@@ -651,7 +651,7 @@
         <translation>भेजा खुद को भुगतान</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>माइंड</translation>
     </message>
     <message>
@@ -718,7 +718,7 @@
         <translation>अपनेआप को</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>माइंड</translation>
     </message>
     <message>

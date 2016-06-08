@@ -358,7 +358,7 @@
         <translation>&amp;Al</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği hakkında bilgi göster</translation>
     </message>
     <message>
@@ -406,11 +406,11 @@
         <translation>Ödeme talep et (QR kodu ve bitcoin URI'si oluşturur)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği &amp;hakkında</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
@@ -430,7 +430,7 @@
         <translation>&amp;Komut satırı seçenekleri</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Bitcoin komut satırı seçeneklerinin listesini elde etmek için Bitcoin Çekirdeği yardım mesajını göster</translation>
     </message>
     <message numerus="yes">
@@ -867,7 +867,7 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Bitcoin Çekirdeği hakkında</translation>
     </message>
     <message>
@@ -918,11 +918,11 @@
         <translation>Hoş geldiniz</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>Bitcoin Çekirdeğine hoş geldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>Bu programı ilk kez başlattığınızdan dolayı Bitcoin Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
@@ -1020,7 +1020,7 @@
         <translation>Pencere kapatıldığında uygulamadan çıkmak yerine uygulamayı küçültür. Bu seçenek etkinleştirildiğinde, uygulama sadece menüden çıkış seçildiğinde kapanacaktır.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Bitcoin Çekirdeği tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
@@ -1048,11 +1048,11 @@
         <translation>&amp;Şebeke</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation>Sistemde oturum açıldığında Bitcoin Çekirdeğini otomatik olarak başlat.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>Bitcoin Çekirdeğini sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
@@ -1243,7 +1243,7 @@
         <translation>Olgunlaşmamış:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Oluşturulan bakiye henüz olgunlaşmamıştır</translation>
     </message>
     <message>
@@ -1275,7 +1275,7 @@
         <translation>Sadece izlenen adreslere gelen teyit edilmemiş muameleler</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Sadece izlenen adreslerin henüz olgunlaşmamış oluşturulan bakiyeleri</translation>
     </message>
     <message>
@@ -1518,7 +1518,7 @@
         <translation>Bellek kullanımı</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Güncel veri klasöründen Bitcoin Çekirdeği hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
@@ -1678,7 +1678,7 @@
         <translation>Düğümün Yasağını Kald&amp;ır</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>Bitcoin Çekirdeği RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
@@ -2418,7 +2418,7 @@
         <translation>Bitcoin Çekirdeği</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>Bitcoin Çekirdeği geliştiricileri</translation>
     </message>
     <message>
@@ -2666,7 +2666,7 @@
         <translation>Kendinize ödeme</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Madenden çıkarılan</translation>
     </message>
     <message>
@@ -2745,7 +2745,7 @@
         <translation>Kendinize</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Oluşturulan</translation>
     </message>
     <message>
@@ -2936,7 +2936,7 @@
         <translation>Tek cüzdan muamelesinde kullanılacak azami toplam ücret (%s olarak); bunu çok düşük olarak ayarlamak büyük muameleleri iptal edebilir (varsayılan: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Ladybug Pupa will not work properly.</source>
         <translation>Lütfen bilgisayarınızın saat ve tarihinin doğru olduğunu kontol ediniz! Saatinizde gecikme varsa Bitcoin Çekirdeği doğru şekilde çalışamaz.</translation>
     </message>
     <message>
@@ -3008,7 +3008,7 @@
         <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - bitcoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
         <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Bitcoin Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
@@ -3216,7 +3216,7 @@
         <translation>Belirtilen adrese bağlan ve JSON RPC bağlantıları için dinlemeye geç. IPv6 için [makine]:port imlasını kullanınız. Bu seçenek birden çok kez belirtilebilir (varsayılan: tüm arayüzlere bağlan)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation>%s veri dizininde kilit elde edilemedi. Bitcoin Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
@@ -3316,11 +3316,11 @@
         <translation>SOCKS5 vekil sunucusu vasıtasıyla bağlan</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
         <translation>Telif hakkı 2009-%i Bitcoin Çekirdeği Geliştiricileri</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>wallet.dat dosyasının yüklenmesinde hata: Cüzdan Bitcoin Çekirdeğinin daha yeni bir sürümünü gerektirmektedir</translation>
     </message>
     <message>
@@ -3336,7 +3336,7 @@
         <translation>Bilgi</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
         <translation>Başlatma sınaması başarısız oldu. Bitcoin Çekirdeği kapatılıyor.</translation>
     </message>
     <message>
@@ -3456,7 +3456,7 @@
         <translation>JSON-RPC bağlantıları için kullanıcı ismi</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
         <translation>Cüzdanın tekrar yazılması gerekmektedir: tamamlamak için Bitcoin Çekirdeğini yeniden başlatın</translation>
     </message>
     <message>

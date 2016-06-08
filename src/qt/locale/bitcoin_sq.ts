@@ -250,7 +250,7 @@
         <translation>Berthama Bitcoin</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>Rreth Berthames Bitkoin</translation>
     </message>
     <message>
@@ -393,7 +393,7 @@
         <translation>versioni</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Rreth Berthames Bitkoin</translation>
     </message>
     </context>
@@ -404,7 +404,7 @@
         <translation>Miresevini</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>Miresevini ne Berthamen Bitcoin</translation>
     </message>
     <message>
@@ -724,7 +724,7 @@
         <translation>Pagesë ndaj vetvetes</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minuar</translation>
     </message>
     <message>
@@ -743,7 +743,7 @@
         <translation>Dërguar drejt</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minuar</translation>
     </message>
     <message>

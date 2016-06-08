@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
+        <translation>Ladybug Pupa sammuu nyt viimeistelläkseen kryptaamisen. Muista että lompakon kryptaaminen ei voi täysin suojata bitcoinejasi varkaudelta malwaren saastuttamalla tietokoneella.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core ohjelma</translation>
+        <translation>Ladybug Pupa ohjelma</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Vastaanota</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Näytä tietoja Bitcoin Core:sta</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Näytä tietoja Ladybug Pupa:sta</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -406,12 +406,12 @@
         <translation>Pyydä maksuja (Luo QR koodit ja bitcoin: URIt)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Tietoja Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Tietoja Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Muokkaa kokoonpanoasetuksia Bitcoin Corelle</translation>
+        <source>Modify configuration options for Ladybug Pupa</source>
+        <translation>Muokkaa kokoonpanoasetuksia Ladybug Pupalle</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -430,8 +430,8 @@
         <translation>&amp;Komentorivin valinnat</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Näytä Bitcoin Core ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Näytä Ladybug Pupa ohjeet saadaksesi listan mahdollisista Bitcoinin komentorivivalinnoista</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -867,8 +867,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Tietoja Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Tietoja Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -918,16 +918,16 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Tervetuloa Bitcoin Core</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Tervetuloa Ladybug Pupa</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Tämän on ensimmäinen kerta kun Bitcoin Core on käynnistetty joten voit valita data-hakemiston paikan.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Tämän on ensimmäinen kerta kun Ladybug Pupa on käynnistetty joten voit valita data-hakemiston paikan.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
+        <translation>Ladybug Pupa lataa ja tallentaa kopion Bitcoinin lohkoketjusta. Vähintään %1GB dataa tullaan tallentamaan tähän hakemistoon ja tarve kasvaa ajan myötä. Lomakko tullaan myös tallentamaan tähän hakemistoon.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1020,8 +1020,8 @@
         <translation>Minimoi ikkuna ohjelman sulkemisen sijasta kun ikkuna suljetaan. Kun tämä asetus on käytössä, ohjelma suljetaan vain valittaessa valikosta Poistu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
-        <translation>Käyttöliittymän kieli voidaan asettaa tässä. Tämä asetus tulee käyttöön vasta kun Bitcoin Core käynnistetään uudelleen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
+        <translation>Käyttöliittymän kieli voidaan asettaa tässä. Tämä asetus tulee käyttöön vasta kun Ladybug Pupa käynnistetään uudelleen.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1048,12 +1048,12 @@
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Käynnistä Bitcoin Core automaattisesti järjestelmään kirjautumisen jälkeen.</translation>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
+        <translation>Käynnistä Ladybug Pupa automaattisesti järjestelmään kirjautumisen jälkeen.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
-        <translation>&amp;Käynnistä Bitcoin Core järjestelmään kirjautuessa</translation>
+        <source>&amp;Start Ladybug Pupa on system login</source>
+        <translation>&amp;Käynnistä Ladybug Pupa järjestelmään kirjautuessa</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1243,7 +1243,7 @@
         <translation>Epäkypsää:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Louhittu saldo, joka ei ole vielä kypsynyt</translation>
     </message>
     <message>
@@ -1275,7 +1275,7 @@
         <translation>Vahvistamattomat rahansiirrot vain katseltaviin osoitteisiin</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Louhittu, ei vielä kypsynyt saldo vain katseltavissa osoitteissa</translation>
     </message>
     <message>
@@ -1518,8 +1518,8 @@
         <translation>Muistin käyttö</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Bitcoin Coren debug-loki tämänhetkisestä datahakemistosta. Tämä voi viedä muutaman sekunnin suurille lokitiedostoille.</translation>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Ladybug Pupan debug-loki tämänhetkisestä datahakemistosta. Tämä voi viedä muutaman sekunnin suurille lokitiedostoille.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1678,8 +1678,8 @@
         <translation>&amp;Poista solmukohdan esto</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Tervetuloa Bitcoin Coren RPC-konsoliin.</translation>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
+        <translation>Tervetuloa Ladybug Pupan RPC-konsoliin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2394,8 +2394,8 @@
         <translation>Bitcoin-ydin</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core kehittäjät</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Ladybug Pupa kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2642,7 +2642,7 @@
         <translation>Maksu itsellesi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Louhittu</translation>
     </message>
     <message>
@@ -2721,7 +2721,7 @@
         <translation>Itsellesi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Louhittu</translation>
     </message>
     <message>
@@ -2940,8 +2940,8 @@
         <translation>Tämä on esi-julkaistu testiversio - Käytä omalla riskillä - Ei saa käytää louhimiseen tai kauppasovelluksiin.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Ei voida yhdistää %s tässä tietokoneessa. Bitcoin Core on luultavasti jo käynnissä.</translation>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
+        <translation>Ei voida yhdistää %s tässä tietokoneessa. Ladybug Pupa on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3096,8 +3096,8 @@
         <translation>Sinun tulee uudelleenrakentaa tietokanta käyttäen -reindex vaihtaen -txindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Ei voida lukita data-hakemistoa %s. Bitcoin Core on luultavasti jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
+        <translation>Ei voida lukita data-hakemistoa %s. Ladybug Pupa on luultavasti jo käynnissä.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3136,11 +3136,11 @@
         <translation>Yhdistä SOCKS5 proxin kautta</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
         <translation>Copyright (C) 2009-%i  Bitcoin kehittäjät</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version Bitcoinista</translation>
     </message>
     <message>
@@ -3236,7 +3236,7 @@
         <translation>Käyttäjätunnus JSON-RPC-yhteyksille</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
         <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä Bitcoin uudelleen</translation>
     </message>
     <message>

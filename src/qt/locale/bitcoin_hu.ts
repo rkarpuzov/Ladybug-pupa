@@ -295,7 +295,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core kliens</translation>
+        <translation>Ladybug Pupa kliens</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Fogadás</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Bitcoin Core információ megjelenítése</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Ladybug Pupa információ megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -387,19 +387,19 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Fizetési kérelem (QR-kódot és "bitcoin:" URI azonosítót hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;A Bitcoin Core-ról</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;A Ladybug Pupa-ról</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Konfigurációs opciók módosítása a Bitcoin Core-hoz</translation>
+        <source>Modify configuration options for Ladybug Pupa</source>
+        <translation>Konfigurációs opciók módosítása a Ladybug Pupa-hoz</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -418,8 +418,8 @@
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>A Bitcoin Core súgóüzenet megjelenítése a Bitcoin lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>A Ladybug Pupa súgóüzenet megjelenítése a Bitcoin lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -840,7 +840,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -851,8 +851,8 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>A Bitcoin Core-ról</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>A Ladybug Pupa-ról</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -874,12 +874,12 @@
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Üdvözlünk a Bitcoin Core-ban.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Üdvözlünk a Ladybug Pupa-ban.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>A Bitcoin Core le fogja tölteni és tárolni fogja a Bitcoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
+        <translation>A Ladybug Pupa le fogja tölteni és tárolni fogja a Bitcoin blokklánc egy másolatát. Legalább %1GB adat lesz tárolva ebben a mappában, és ez folyamatosan nőni fog. A tárca szintén itt lesz tárolva.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -891,7 +891,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -960,7 +960,7 @@
         <translation>A proxy IP címe (pl.: IPv4: 127.0.0.1 / IPv6: ::1)</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>Itt beállíthatod a kezelőfelület nyelvét. A beállítás a Bitcoin újraindítása után lép érvénybe.</translation>
     </message>
     <message>
@@ -976,7 +976,7 @@
         <translation>&amp;Hálózat</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>A Bitcoin elindítása bejelentkezéskor</translation>
     </message>
     <message>
@@ -1119,7 +1119,7 @@
         <translation>Éretlen:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Bányászott egyenleg amely még nem érett be.</translation>
     </message>
     <message>
@@ -1826,7 +1826,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>A Bitcoin Core leáll...</translation>
+        <translation>A Ladybug Pupa leáll...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1932,11 +1932,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>A Bitcoin Core fejlesztői</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>A Ladybug Pupa fejlesztői</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2127,7 +2127,7 @@
         <translation>Magadnak kifizetve</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Kibányászva</translation>
     </message>
     <message>
@@ -2194,7 +2194,7 @@
         <translation>Magadnak</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Kibányászva</translation>
     </message>
     <message>
@@ -2429,8 +2429,8 @@
         <translation>Külső cím (-whitebind address) feloldása nem sikerült: '%s'</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i A Bitcoin Core Fejlesztői</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Copyright (C) 2009-%i A Ladybug Pupa Fejlesztői</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

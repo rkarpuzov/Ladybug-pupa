@@ -15,11 +15,11 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>О Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>О Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -82,15 +82,15 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
         <translation>версия</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>О Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>О Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -105,7 +105,7 @@
     <name>Intro</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -177,7 +177,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     </context>
 <context>

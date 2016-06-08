@@ -165,7 +165,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core tiks aizvērts, lai pabeigtu šifrēšansa procesu. Atcerieties, ka jūsu maka šifrēšana nevar pilnībā pasargāt jūsu monētas no to nozagašanas, inficējot datoru ar ļaunprātīgām programmām.</translation>
+        <translation>Ladybug Pupa tiks aizvērts, lai pabeigtu šifrēšansa procesu. Atcerieties, ka jūsu maka šifrēšana nevar pilnībā pasargāt jūsu monētas no to nozagašanas, inficējot datoru ar ļaunprātīgām programmām.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -291,7 +291,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core klients</translation>
+        <translation>Ladybug Pupa klients</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -342,8 +342,8 @@
         <translation>&amp;Saņemt</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Parādīt informāciju par Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Parādīt informāciju par Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -383,15 +383,15 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Pieprasīt maksājumus (izveido QR kodu un bitcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>Par &amp;Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>Par &amp;Ladybug Pupa</translation>
     </message>
     <message>
         <source>Open a bitcoin: URI or payment request</source>
@@ -706,7 +706,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -717,8 +717,8 @@
         <translation>(%1-biti)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Par Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Par Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -740,8 +740,8 @@
         <translation>Sveiciens</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Sveicināts Bitcoin Core</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Sveicināts Ladybug Pupa</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -753,7 +753,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1543,7 +1543,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Bitcoin Core tiek izslēgta...</translation>
+        <translation>Ladybug Pupa tiek izslēgta...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1673,11 +1673,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core izstrādātāji</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Ladybug Pupa izstrādātāji</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1884,7 +1884,7 @@
         <translation>Maksājums sev</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Atrasts</translation>
     </message>
     <message>
@@ -1951,7 +1951,7 @@
         <translation>Sev</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Atrasts</translation>
     </message>
     <message>

@@ -370,7 +370,7 @@
         <translation>Solicitar pagos (genera codigo QR y URL's de Bitcoin)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>&amp;Acerca del Núcleo de Bitcoin</translation>
     </message>
     <message>
@@ -725,7 +725,7 @@
         <translation>versión</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Acerca del Núcleo de Bitcoin</translation>
     </message>
     <message>
@@ -748,11 +748,11 @@
         <translation>Bienvenido</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>Bienvenido al Núcleo de Bitcoin</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>Al ser la primera vez que se ejecuta el programa, puede elegir dónde almacenará sus datos Bitcoin-Qt.</translation>
     </message>
     <message>
@@ -949,7 +949,7 @@
         <translation>No disponible:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Saldo recién minado que aún no está disponible.</translation>
     </message>
     <message>
@@ -1676,7 +1676,7 @@
         <translation>Núcleo de Bitcoin</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>Los desarrolladores del Núcleo de Bitcoin</translation>
     </message>
     <message>
@@ -1872,7 +1872,7 @@
         <translation>Pago propio</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>
@@ -1939,7 +1939,7 @@
         <translation>A usted mismo</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minado</translation>
     </message>
     <message>

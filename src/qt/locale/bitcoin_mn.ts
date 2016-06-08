@@ -892,7 +892,7 @@
         <translation>Ѳѳрлүүгээ хийсэн тѳлбѳр</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Олборлогдсон</translation>
     </message>
     <message>
@@ -955,7 +955,7 @@
         <translation>Ѳѳрлүүгээ</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Олборлогдсон</translation>
     </message>
     <message>

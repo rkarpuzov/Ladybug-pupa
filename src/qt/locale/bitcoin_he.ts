@@ -338,7 +338,7 @@
         <translation>&amp;קבלה</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>הצגת מידע על ליבת ביטקוין</translation>
     </message>
     <message>
@@ -386,7 +386,7 @@
         <translation>בקשת תשלומים (יצירה של קודים מסוג QR וסכימות כתובות משאב של :bitcoin)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>על &amp;אודות ליבת ביטקוין</translation>
     </message>
     <message>
@@ -406,7 +406,7 @@
         <translation>אפשרויות &amp;שורת הפקודה</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>הצגת הודעות העזרה של ליבת ביטקוין כדי לקבל רשימה עם אפשרויות שורת הפקודה האפשריות של ביטקוין</translation>
     </message>
     <message>
@@ -765,7 +765,7 @@
         <translation>(%1-סיביות)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>על אודות ליבת ביטקוין</translation>
     </message>
     <message>
@@ -788,11 +788,11 @@
         <translation>ברוך בואך</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>ברוך בואך לליבת ביטקוין</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>מכיוון שזאת הפעם הראשונה שהתכנית פועלת ניתן לבחור איפה ליבת ביטקוין תאחסן את הנתונים שלה.</translation>
     </message>
     <message>
@@ -1049,7 +1049,7 @@
         <translation>לא בשל:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>מאזן שנכרה וטרם הבשיל</translation>
     </message>
     <message>
@@ -1077,7 +1077,7 @@
         <translation>העברות בלתי מאושרות לכתובות לצפייה בלבד</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>מאזן לאחר כרייה בכתובות לצפייה בלבד שעדיין לא הבשילו</translation>
     </message>
     <message>
@@ -2004,7 +2004,7 @@
         <translation>ליבת ביטקוין</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>מתכנתי ליבת ביטקוין</translation>
     </message>
     <message>
@@ -2236,7 +2236,7 @@
         <translation>תשלום לעצמך</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>נכרה</translation>
     </message>
     <message>
@@ -2311,7 +2311,7 @@
         <translation>לעצמך</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>נכרה</translation>
     </message>
     <message>
@@ -2514,7 +2514,7 @@
         <translation>זוהי בניית ניסיון טרום-שחרור - השימוש בה על אחריותך - אין להשתמש לצורך כריה או יישומי מסחר</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
         <translation>לא ניתן להתאגד אל %s במחשב זה. כנראה שליבת ביטקוין כבר פועלת.</translation>
     </message>
     <message>
@@ -2650,11 +2650,11 @@
         <translation>התחברות דרך מתווך SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
         <translation>כל הזכויות שמורות (C)‏ 2009‏-%i מתכנתי ליבת ביטקוין</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>אירעה שגיאה בטעינת wallet.dat: הארנק דורש גרסה חדשה יותר של ליבת ביטקוין</translation>
     </message>
     <message>
@@ -2662,7 +2662,7 @@
         <translation>מידע</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
         <translation>בדיקת התקינות ההתחלתית נכשלה. ליבת ביטקוין תיסגר כעת.</translation>
     </message>
     <message>
@@ -2738,7 +2738,7 @@
         <translation>שם משתמש לחיבורי JSON-RPC</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
         <translation>יש לכתוב את הארנק מחדש: נא להפעיל את ליבת ביטקוין מחדש כדי להשלים את הפעולה</translation>
     </message>
     <message>

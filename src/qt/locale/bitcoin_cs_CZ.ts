@@ -520,7 +520,7 @@
         <translation>Platba sobě samému</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Vytěženo</translation>
     </message>
     <message>
@@ -571,7 +571,7 @@
         <translation>Sobě samému</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Vytěženo</translation>
     </message>
     <message>

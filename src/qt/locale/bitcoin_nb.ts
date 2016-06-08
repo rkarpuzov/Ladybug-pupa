@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Ladybug Pupa will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Bitcoin Core vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
+        <translation>Ladybug Pupa vil nå avslutte for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke kan beskytte fullstendig mot tyveri av dine bitcoins hvis datamaskinen din er infisert av skadevare.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -307,7 +307,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core-klient</translation>
+        <translation>Ladybug Pupa-klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -358,8 +358,8 @@
         <translation>&amp;Motta</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Vis informasjon om Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Vis informasjon om Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -399,19 +399,19 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
         <translation>Forespør betalinger (genererer QR-koder og bitcoin: URIer)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Om Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Om Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
-        <translation>Endre konfigurasjonsvalg for Bitcoin Core</translation>
+        <source>Modify configuration options for Ladybug Pupa</source>
+        <translation>Endre konfigurasjonsvalg for Ladybug Pupa</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -430,8 +430,8 @@
         <translation>&amp;Kommandolinjevalg</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Vis Bitcoin Core hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Vis Ladybug Pupa hjelpemeldingen for å få en liste med mulige kommandolinjevalg</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to Bitcoin network</source>
@@ -856,7 +856,7 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
@@ -867,8 +867,8 @@
         <translation> (%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Om Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Om Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -918,16 +918,16 @@
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Velkommen til Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Velkommen til Ladybug Pupa.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor Bitcoin Core skal lagre sine data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
+        <translation>Siden dette er første gang programmet starter, kan du nå velge hvor Ladybug Pupa skal lagre sine data.</translation>
     </message>
     <message>
         <source>Ladybug Pupa will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Bitcoin Core vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
+        <translation>Ladybug Pupa vil laste ned og lagre en kopi av Bitcoin sin blokkjede. Minst %1GB av data vil bli lagret i denne mappen, og det vil vokse over tid. Lommeboken vil også bli lagret i denne mappen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -939,7 +939,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1020,8 +1020,8 @@
         <translation>Minimer i stedet for å avslutte applikasjonen når vinduet lukkes. Når dette er valgt, vil applikasjonen avsluttes kun etter at Avslutte er valgt i menyen.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
-        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av Bitcoin Core.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
+        <translation>Språk for brukergrensesnittet kan velges her. Denne innstillingen trer i kraft etter omstart av Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1048,12 +1048,12 @@
         <translation>&amp;Nettverk</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation>Start Bitcoin Core automatisk ved oppstart av datamaskinen.</translation>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
+        <translation>Start Ladybug Pupa automatisk ved oppstart av datamaskinen.</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
-        <translation>&amp;Start Bitcoin Core ved oppstart av datamaskinen</translation>
+        <source>&amp;Start Ladybug Pupa on system login</source>
+        <translation>&amp;Start Ladybug Pupa ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1243,7 +1243,7 @@
         <translation>Umoden:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Minet saldo har ikke modnet enda</translation>
     </message>
     <message>
@@ -1275,7 +1275,7 @@
         <translation>Ubekreftede transaksjoner til kun observerbare adresser</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Utvunnet balanse i kun observerbare adresser som ennå ikke har modnet</translation>
     </message>
     <message>
@@ -1518,8 +1518,8 @@
         <translation>Minnebruk</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åpne Bitcoin Core sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åpne Ladybug Pupa sin loggfil for feilsøk fra gjeldende datamappe. Dette kan ta noen sekunder for store loggfiler.</translation>
     </message>
     <message>
         <source>Received</source>
@@ -1678,8 +1678,8 @@
         <translation>Fjern &amp;Utestengning av Node</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation>Velkommen til Bitcoin Core sin RPC-konsoll.</translation>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
+        <translation>Velkommen til Ladybug Pupa sin RPC-konsoll.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2265,7 +2265,7 @@
     <name>ShutdownWindow</name>
     <message>
         <source>Ladybug Pupa is shutting down...</source>
-        <translation>Bitcoin Core lukker...</translation>
+        <translation>Ladybug Pupa lukker...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2415,11 +2415,11 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
-        <translation>Bitcoin Core utviklerne</translation>
+        <source>The Ladybug Pupa developers</source>
+        <translation>Ladybug Pupa utviklerne</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2666,7 +2666,7 @@
         <translation>Betaling til deg selv</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Utvunnet</translation>
     </message>
     <message>
@@ -2745,7 +2745,7 @@
         <translation>Til deg selv</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Utvunnet</translation>
     </message>
     <message>
@@ -2936,8 +2936,8 @@
         <translation>Maksimalt samlede gebyrer (i %s) til å bruke i en enkelt lommeboktransaksjon; settes dette for lavt kan store transaksjoner kanskje avbrytes (standardverdi: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
-        <translation>Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Bitcoin Core fungere riktig.</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Ladybug Pupa will not work properly.</source>
+        <translation>Vennligst undersøk at din datamaskin har riktig dato og klokkeslett! Hvis klokken er stilt feil vil ikke Ladybug Pupa fungere riktig.</translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
@@ -3008,8 +3008,8 @@
         <translation>Dette er en forhåndssluppet testversjon - bruk på egen risiko - ikke for bruk til blokkutvinning eller bedriftsapplikasjoner</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>Ute av stand til å binde til %s på denne datamaskinen. Bitcoin Core kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
+        <translation>Ute av stand til å binde til %s på denne datamaskinen. Ladybug Pupa kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3216,8 +3216,8 @@
         <translation>Bind til gitt adresse for å lytte for JSON-RPC-tilkoblinger. Bruk [host]:port notasjon for IPv6. Dette alternativet kan angis flere ganger (standardverdi: bind til alle grensesnitt)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. Bitcoin Core kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. Ladybug Pupa kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3316,12 +3316,12 @@
         <translation>Koble til via SOCKS5-proxy</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Copyright (C) 2009-%i utviklerne av Bitcoin Core</translation>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
+        <translation>Copyright (C) 2009-%i utviklerne av Ladybug Pupa</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Bitcoin Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3336,8 +3336,8 @@
         <translation>Informasjon</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation>Sunnhetssjekk ved oppstart feilet. Bitcoin Core stenges ned.</translation>
+        <source>Initialization sanity check failed. Ladybug Pupa is shutting down.</source>
+        <translation>Sunnhetssjekk ved oppstart feilet. Ladybug Pupa stenges ned.</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3456,8 +3456,8 @@
         <translation>Brukernavn for JSON-RPC forbindelser</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
-        <translation>Lommeboken måtte skrives på nytt: start Bitcoin Core på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart Ladybug Pupa to complete</source>
+        <translation>Lommeboken måtte skrives på nytt: start Ladybug Pupa på nytt for å fullføre</translation>
     </message>
     <message>
         <source>Warning</source>

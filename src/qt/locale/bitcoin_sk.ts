@@ -299,7 +299,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core klient</translation>
+        <translation>Ladybug Pupa klient</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -350,8 +350,8 @@
         <translation>&amp;Prijať</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Zobraziť informácie o Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Zobraziť informácie o Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -398,11 +398,11 @@
         <translation>Vyžiadať platby (vygeneruje QR kódy a bitcoin: URI)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>O jadre Bitcoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Bitcoin Core</source>
+        <source>Modify configuration options for Ladybug Pupa</source>
         <translation>Upraviť možnosti nastavenia pre Jadro Bitcoin</translation>
     </message>
     <message>
@@ -422,7 +422,7 @@
         <translation>Možnosti príkazového riadku</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>Zobraziť pomocnú správu od Bitcoin Jadra pre získanie zoznamu dostupných možností príkazového riadku</translation>
     </message>
     <message numerus="yes">
@@ -859,7 +859,7 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>O jadre Bitcoin</translation>
     </message>
     <message>
@@ -882,11 +882,11 @@
         <translation>Vitajte</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>Vitajte v jadre Bitcoin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>Keďže spúštate program prvý krát, môžte si vybrať kde bude Bitcoin Jadro ukladať svoje dáta.</translation>
     </message>
     <message>
@@ -984,7 +984,7 @@
         <translation>Minimalizovať namiesto ukončenia aplikácie keď sa okno zavrie. Keď je zvolená táto možnosť, aplikácia sa zavrie len po zvolení Ukončiť v menu.</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Ladybug Pupa.</source>
         <translation>Tu sa dá nastaviť jazyk užívateľského rozhrania. Toto nastavenie bude účinné po reštartovaní Jadra Bitcoin.</translation>
     </message>
     <message>
@@ -1012,11 +1012,11 @@
         <translation>Sieť</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Ladybug Pupa after logging in to the system.</source>
         <translation>Automaticky spustiť Jadro Bitcoin po prihlásení do systému</translation>
     </message>
     <message>
-        <source>&amp;Start Bitcoin Core on system login</source>
+        <source>&amp;Start Ladybug Pupa on system login</source>
         <translation>&amp;Spustiť Bitcoin pri spustení systému správy okien</translation>
     </message>
     <message>
@@ -1183,7 +1183,7 @@
         <translation>Nezrelé:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Vytvorený zostatok ktorý ešte nedosiahol zrelosť</translation>
     </message>
     <message>
@@ -1215,7 +1215,7 @@
         <translation>Nepotvrdené transakcie pre adresy ktoré sa iba sledujú</translation>
     </message>
     <message>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Metamorphose balance in watch-only addresses that has not yet matured</source>
         <translation>Vyťažená suma pre adresy ktoré sa iba sledujú ale ešte nie je dozretá</translation>
     </message>
     <message>
@@ -1446,7 +1446,7 @@
         <translation>Aktuálny počet blokov</translation>
     </message>
     <message>
-        <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Ladybug Pupa debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otvoriť Bitcoin log súbor pre ladenie z aktuálneho dátového adresára. Toto môže trvať niekoľko sekúnd pre veľké súbory.</translation>
     </message>
     <message>
@@ -1550,7 +1550,7 @@
         <translation>Vymazať konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>Vitajte v RPC konzole pre Jadro Bitcoin.</translation>
     </message>
     <message>
@@ -2250,7 +2250,7 @@
         <translation>Jadro Bitcoin</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>Vývojári jadra Bitcoin</translation>
     </message>
     <message>
@@ -2494,7 +2494,7 @@
         <translation>Platba sebe samému</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Vyťažené</translation>
     </message>
     <message>
@@ -2569,7 +2569,7 @@
         <translation>Samému sebe</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Vyťažené</translation>
     </message>
     <message>
@@ -2780,7 +2780,7 @@
         <translation>Toto je pred-testovacia verzia - použitie je na vlastné riziko - nepoužívajte na tvorbu bitcoin ani obchodovanie.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Ladybug Pupa is probably already running.</source>
         <translation>Nepodarilo sa pripojiť na %s na tomto počítači. Bitcoin Jadro je už pravdepodobne spustené.</translation>
     </message>
     <message>
@@ -2926,7 +2926,7 @@ The network does not appear to fully agree! Some miners appear to be experiencin
         <translation>Spojiť s danou adresou pre počúvanie JSON-RPC spojení. Použite zápis [host]:port pre IPv6. Táto možnosť môže byt zadaná niekoľko krát (predvolené: spojiť so všetkými rozhraniami)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation>Neviem uzamknúť data adresár %s. Jadro Bitcoin je pravdepodobne už spustené.</translation>
     </message>
     <message>
@@ -2990,11 +2990,11 @@ The network does not appear to fully agree! Some miners appear to be experiencin
         <translation>Pripojiť cez proxy server SOCKS5</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <source>Copyright (C) 2009-%i The Ladybug Pupa Developers</source>
         <translation>Autorské práva (C) 2009-%i Vývojári jadra Bitcoin</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Ladybug Pupa</source>
         <translation>Chyba pri čítaní wallet.dat: Peňaženka vyžaduje vyššiu verziu Jadra Bitcoin</translation>
     </message>
     <message>

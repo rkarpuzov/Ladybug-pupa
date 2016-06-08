@@ -346,7 +346,7 @@
         <translation>&amp;استقبل</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>  اظهار معلومات حول bitcion core</translation>
     </message>
     <message>
@@ -382,7 +382,7 @@
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>حول bitcoin core</translation>
     </message>
     <message>
@@ -633,7 +633,7 @@
         <translation>النسخة</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>عن جوهر البيت كوين</translation>
     </message>
     <message>
@@ -1348,7 +1348,7 @@
         <translation>جوهر البيت كوين</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>مطوري جوهر البيت كوين</translation>
     </message>
     <message>
@@ -1528,8 +1528,8 @@
         <translation>دفع لنفسك</translation>
     </message>
     <message>
-        <source>Mined</source>
-        <translation>Mined</translation>
+        <source>Metamorphose</source>
+        <translation>Metamorphose</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -1595,8 +1595,8 @@
         <translation>إليك</translation>
     </message>
     <message>
-        <source>Mined</source>
-        <translation>Mined</translation>
+        <source>Metamorphose</source>
+        <translation>Metamorphose</translation>
     </message>
     <message>
         <source>Other</source>

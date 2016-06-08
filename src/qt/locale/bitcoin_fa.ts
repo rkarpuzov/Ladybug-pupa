@@ -342,7 +342,7 @@
         <translation>&amp;دریافت</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>نمایش اطلاعات در مورد بیت‌کوین</translation>
     </message>
     <message>
@@ -386,7 +386,7 @@
         <translation> هسته Bitcoin </translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>درباره هسته ی بیت کوین</translation>
     </message>
     <message>
@@ -709,7 +709,7 @@
         <translation>نسخه</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>درباره هسته ی بیت کوین</translation>
     </message>
     <message>
@@ -732,11 +732,11 @@
         <translation>خوش‌آمدید</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>به هسته بیت کوین خوش آمدید.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>از آنجایی که این اولین اجرای برنامه است، شما می‌توانید مسیر ذخیرهٔ داده‌ها را انتخاب کنید.</translation>
     </message>
     <message>
@@ -901,7 +901,7 @@
         <translation>نارسیده:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>تراز استخراج شده از معدن که هنوز بالغ نشده است</translation>
     </message>
     <message>
@@ -1072,7 +1072,7 @@
         <translation>پاکسازی کنسول</translation>
     </message>
     <message>
-        <source>Welcome to the Bitcoin Core RPC console.</source>
+        <source>Welcome to the Ladybug Pupa RPC console.</source>
         <translation>به کنسول RPC هسته بیت کوین خوش آمدید.</translation>
     </message>
     <message>
@@ -1480,7 +1480,7 @@
         <translation> هسته Bitcoin </translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>توسعه‌دهندگان هسته بیت‌کوین</translation>
     </message>
     <message>
@@ -1692,7 +1692,7 @@
         <translation>پر داخت به خودتان</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>استخراج‌شده</translation>
     </message>
     <message>
@@ -1759,7 +1759,7 @@
         <translation>به خودتان</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>استخراج‌شده</translation>
     </message>
     <message>

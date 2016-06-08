@@ -222,7 +222,7 @@
         <translation>Трака са картицама</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>O Bitcoin Coru</translation>
     </message>
     <message>
@@ -321,7 +321,7 @@
         <translation>верзија</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>O Bitcoin Coru</translation>
     </message>
     <message>
@@ -624,7 +624,7 @@
         <translation>Isplata samom sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minirano</translation>
     </message>
     <message>
@@ -691,7 +691,7 @@
         <translation>Vama - samom sebi</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Minirano</translation>
     </message>
     <message>

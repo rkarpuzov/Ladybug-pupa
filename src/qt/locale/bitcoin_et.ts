@@ -330,7 +330,7 @@
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>Kirjeldus Bitcoini Tuumast</translation>
     </message>
     <message>
@@ -599,7 +599,7 @@
         <translation>versioon</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>Kirjeldus Bitcoini Tuumast</translation>
     </message>
     <message>
@@ -763,7 +763,7 @@
         <translation>Ebaküps:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Mitte aegunud mine'itud jääk</translation>
     </message>
     <message>
@@ -1294,7 +1294,7 @@
         <translation>Bitcoini tuumik</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>Bitcoini Tuuma arendajad</translation>
     </message>
     <message>
@@ -1482,7 +1482,7 @@
         <translation>Makse iseendale</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Mine'itud</translation>
     </message>
     <message>
@@ -1549,7 +1549,7 @@
         <translation>Iseendale</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Mine'itud</translation>
     </message>
     <message>

@@ -175,7 +175,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core client</translation>
+        <translation>Ladybug Pupa client</translation>
     </message>
     <message>
         <source>Bitcoin</source>
@@ -215,11 +215,11 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Về Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Về Ladybug Pupa</translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -378,15 +378,15 @@
     <name>HelpMessageDialog</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>version</source>
         <translation>version</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Về Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Về Ladybug Pupa</translation>
     </message>
     </context>
 <context>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     <message>
         <source>Error</source>
@@ -617,7 +617,7 @@
     <name>SplashScreen</name>
     <message>
         <source>Ladybug Pupa</source>
-        <translation>Bitcoin Core</translation>
+        <translation>Ladybug Pupa</translation>
     </message>
     </context>
 <context>

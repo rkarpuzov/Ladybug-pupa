@@ -287,7 +287,7 @@
     </message>
     <message>
         <source>Ladybug Pupa client</source>
-        <translation>Bitcoin Core klientas</translation>
+        <translation>Ladybug Pupa klientas</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -338,8 +338,8 @@
         <translation>&amp;Gauti</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Rodyti informaciją apie Bitcoin Core</translation>
+        <source>Show information about Ladybug Pupa</source>
+        <translation>Rodyti informaciją apie Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -374,8 +374,8 @@
         <translation>Bitcoin branduolys</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>&amp;Apie Bitcoin Core</translation>
+        <source>&amp;About Ladybug Pupa</source>
+        <translation>&amp;Apie Ladybug Pupa</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -645,8 +645,8 @@
         <translation>versija</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Apie Bitcoin Core</translation>
+        <source>About Ladybug Pupa</source>
+        <translation>Apie Ladybug Pupa</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -668,8 +668,8 @@
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Sveiki atvykę į Bitcoin Core.</translation>
+        <source>Welcome to Ladybug Pupa.</source>
+        <translation>Sveiki atvykę į Ladybug Pupa.</translation>
     </message>
     <message>
         <source>Ladybug Pupa</source>
@@ -1544,7 +1544,7 @@
         <translation>Mokėjimas sau</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Išgauta</translation>
     </message>
     <message>
@@ -1611,7 +1611,7 @@
         <translation>Skirta sau</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Išgauta</translation>
     </message>
     <message>

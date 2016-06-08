@@ -609,7 +609,7 @@
         <translation>Immatura:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>Fossum pendendum quod nondum maturum est</translation>
     </message>
     </context>
@@ -1216,7 +1216,7 @@
         <translation>Pensitatio ad te ipsum</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Fossa</translation>
     </message>
     <message>
@@ -1283,7 +1283,7 @@
         <translation>Ad te ipsum</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>Fossa</translation>
     </message>
     <message>

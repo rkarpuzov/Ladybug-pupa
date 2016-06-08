@@ -342,7 +342,7 @@
         <translation>받기(&amp;R)</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Ladybug Pupa</source>
         <translation>비트코인 코어에 관한 정보입니다.</translation>
     </message>
     <message>
@@ -390,7 +390,7 @@
         <translation>지불 요청하기 (QR코드와 비트코인이 생성됩니다: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Ladybug Pupa</source>
         <translation>&amp;비트코인 코어 소개</translation>
     </message>
     <message>
@@ -410,7 +410,7 @@
         <translation>명령어-라인 옵션</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
+        <source>Show the Ladybug Pupa help message to get a list with possible Bitcoin command-line options</source>
         <translation>사용할 수 있는 비트코인 명령어 옵션 목록을 가져오기 위해 Bitcoin-Qt 도움말 메시지를 표시합니다.</translation>
     </message>
     <message>
@@ -795,7 +795,7 @@
         <translation>(%1-비트)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Ladybug Pupa</source>
         <translation>비트코인 코어 소개</translation>
     </message>
     <message>
@@ -818,11 +818,11 @@
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
+        <source>Welcome to Ladybug Pupa.</source>
         <translation>비트코인 코어에 오신것을 환영합니.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Ladybug Pupa will store its data.</source>
         <translation>프로그램이 처음으로 실행되고 있습니다. 비트코인 코어가 어디에 데이터를 저장할지 선택할 수 있습니다. </translation>
     </message>
     <message>
@@ -1083,7 +1083,7 @@
         <translation>아직 사용 불가능:</translation>
     </message>
     <message>
-        <source>Mined balance that has not yet matured</source>
+        <source>Metamorphose balance that has not yet matured</source>
         <translation>아직 사용 가능하지 않은 채굴된 잔액</translation>
     </message>
     <message>
@@ -1894,7 +1894,7 @@
         <translation>비트코인 코어</translation>
     </message>
     <message>
-        <source>The Bitcoin Core developers</source>
+        <source>The Ladybug Pupa developers</source>
         <translation>비트코인코어 개발자들</translation>
     </message>
     <message>
@@ -2114,7 +2114,7 @@
         <translation>자신에게 지불</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>채굴</translation>
     </message>
     <message>
@@ -2181,7 +2181,7 @@
         <translation>자기거래</translation>
     </message>
     <message>
-        <source>Mined</source>
+        <source>Metamorphose</source>
         <translation>채굴</translation>
     </message>
     <message>
@@ -2488,7 +2488,7 @@
         <translation>-txindex를 바꾸기 위해서는 -reindex를 사용해서 데이터베이스를 재구성해야 합니다. </translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Ladybug Pupa is probably already running.</source>
         <translation>데이터 디렉토리 %s에 락을 걸 수 없었습니다. 비트코인 코어가 이미 실행 중인 것으로 보입니다.</translation>
     </message>
     <message>
