@@ -2234,7 +2234,7 @@
     </message>
     <message>
         <source>Metamorphose</source>
-        <translation>Емитирани</translation>
+        <translation>Излюпени</translation>
     </message>
     <message>
         <source>Other</source>
