@@ -848,6 +848,27 @@
         <source>Open URI</source>
         <translation>Отваряне на URI</translation>
     </message>
+    <message>
+        <location line="+6"/>
+        <source>Open payment request from URI or file</source>
+	<translation>Отвори заявка за изпращане от URI или файл</translation>
+    </message>
+    <message>
+        <location line="+9"/>
+        <source>URI:</source>
+        <translation>URI:</translation>
+    </message>
+    <message>
+        <location line="+10"/>
+        <source>Select payment request file</source>
+        <translation>Избери файл със заявки за изпращане</translation>
+    </message>
+    <message>
+        <location filename="../openuridialog.cpp" line="+47"/>
+        <source>Select payment request file to open</source>
+        <translation>Избор на файл със заявки за изпращане да се отвори</translation>
+    </message>
+
     </context>
 <context>
     <name>OptionsDialog</name>
@@ -1032,7 +1053,7 @@
     </message>
     <message>
         <source>Available:</source>
-        <translation>Налично:</translation>
+        <translation>Налични:</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -1040,11 +1061,11 @@
     </message>
     <message>
         <source>Pending:</source>
-        <translation>Изчакващо:</translation>
+        <translation>Изчакващи:</translation>
     </message>
     <message>
         <source>Immature:</source>
-        <translation>Неразвит:</translation>
+        <translation>Неразвити:</translation>
     </message>
     <message>
         <source>Metamorphose balance that has not yet matured</source>
