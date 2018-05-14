@@ -1,6 +1,18 @@
 Ladybug Pupa - latest stable version is 0.12
-Website: https://ladybug.ga/en
-Wallets: https://ladybug.ga/en/wallets/
+
+Website
+=======
+
+https://ladybug.ga/en
+
+Wallets
+=======
+
+https://ladybug.ga/en/wallets/
+
+Block Explorer
+==============
+
 You can monitor the process of metamorphosis and migration here: https://zetool.cointech.net/chain/Ladybug
 
 Latest source code
